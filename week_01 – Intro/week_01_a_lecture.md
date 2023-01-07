@@ -5,24 +5,29 @@
 * About me
 * What I've worked on.
 
-## Students thoughts Vad de ser fram emot med kursen?
+## Students thoughts – What are you looking forward to?
 
-### Vad har de gjort tidigare?
+## Vad programs/programming have they done before?
 
-### Vad vi ska gå igenom i kursen
+### Main topics of the course
 
-* React! Och bibliotek som behöver för att använda react effektivt.
+* React! And an assortment of libraries.
 * Node
 * NPM
-* Även git och github.
+* Git och github*
 
-### Intro-föreläsning: Vad är react?
+### Intro: What is react?
 
-* Varför?
-* Jämför med jQuery/"vanilla jasvscript".
-* Snabbare template generator (men jag förstår att ni inte riktigt har koll på vad templates är, det är något som nästan dött ut som concept, det var ett annat sätt att generera "vyer")
-* när vi kommit in i det lite mer, ska jag gå igenom lite mer hur react fungerar bakom kulisserna
-* Visa exempel på sidor som använder react.
+#### Why use react?
+#### Compared to jQuery/"vanilla JavaScript".
+#### Speed
+* It was faster then comparable tools (templates etc).
+#### Complexity
+* When an application grows bigger it help to have a common structure to reason about. otherwise everything
+becomes a tangles mess.
+#### när vi kommit in i det lite mer, ska jag gå igenom lite mer hur react
+     fungerar bakom kulisserna
+#### Visa exempel på sidor som använder react.
 
 ### Intro-föreläsning: Vad är node
 
