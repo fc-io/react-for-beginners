@@ -7,6 +7,6 @@ deeper into each topic and is meant as resource both for the teacher and the
 students.
 
 The content presented within assumes some familiarity with JavaScript, HTML and
-CSS but does not assume any familiarity with git or GitHub (yet here we are ;).
+CSS but does not assume any familiarity with node, npm, git or GitHub (yet here we are ;).
 
 
