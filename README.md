@@ -2,11 +2,13 @@
 
 **Welcome to a beginner's guide to React!**
 
-The content here in is meant to be used in conjunction with lectures that delve
-deeper into each topic and is meant as resource both for the teacher and the
+The content here is mostly thought of as providing an outline to a lecture
+series. Each lecture will delve deeper into each topic outlined in this
+repository. The repository is meant as resource both for the teacher and the
 students.
 
-The content presented within assumes some familiarity with JavaScript, HTML and
-CSS but does not assume any familiarity with node, npm, git or GitHub (yet here we are ;).
+The content presented within assumes some familiarity with HTML, CSS and
+JavaScript but does not assume any familiarity with Node, NPM, Git or GitHub
+(yet here we are ;).
 
 
