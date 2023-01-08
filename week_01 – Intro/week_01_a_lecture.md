@@ -102,13 +102,16 @@ Det här är är inte fusk. Och ingen programmerare oavsett nivå ska känns sig
 ### Om arbetsmarknaden
 * efterfrågan på react-kunskap
 * hur man tar sig dit om man vill jobba med react – första jobbet ("oftast") det svåraste,
-* vad som behövs mer utöver den här kursen
+* What else will you need in addition to this course?
+  * more practice
+  * typescript
+  * react native, SSR (next.js)
 
 ### När man får jobbet – Imposter syndrom
-* varför det är viktigt att känna till?
-* Hur man övervinner
+* Why it's important to know about
+* How to overcome
 
 ### Uppgifter
-* Repition
-* Nytt
-* Alla som jag går igenom ska ni också göra själva i någon form.
+* Repetition
+* Extend with additional functionality
+* Everything that I show, you will also do in some form.
