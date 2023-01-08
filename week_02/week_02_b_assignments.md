@@ -21,11 +21,11 @@ Och därefter en funktion som också skapar en html-fil som har samma innehåll.
 
 ### C. Visa
 
-State, props, useState, useEffect
+State vs. props
 
 ### D. Visa
 
-Någon uppgift som använder state, props, useState, useEffect.
+Någon uppgift som använder state, props
 
 ## Vecka 3 – editors + build tools
 
