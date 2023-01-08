@@ -39,5 +39,5 @@ Your idea should later on be added to a github repo; for now you can jot it down
 
 Hitta en designstil som du vill insperars från i din app. Förslagsvis från något på https://dribbble.com/.
 
-Lägg till en map till ert repo, men bilder på stilen. Om ni vill ha olika stilar beroende på vilken idé ni i slutändan väljer lägg i olika mappar.
+Also to be included in you github repo later on. But for now save a link or an image wherever.
 

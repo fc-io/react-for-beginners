@@ -1,57 +1,94 @@
-# Intro – React is aweseome
+# Intro
 
-## Leacturer presentation
+## Intro to the intro
+
+### React is awesome
+
+* Awesomeness
+* What does it solve?
+
+### Leacturer presentation
 
 * About me
 * What I've worked on.
 
-## Students thoughts – What are you looking forward to?
+## Students thoughts 1
 
-## Vad programs/programming have they done before?
+### What are you looking forward to?
 
-### Main topics of the course
+### Vad programs/programming have they done before?
+
+**HTML/CSS**
+
+[] flexbox?
+[] grids?
+[] forms?
+
+**JavaScript**
+
+[] what methods?
+  [] loops? forEach, Map, reduce?
+[] localstorage?
+[] terneries?
+[] var/const/let/?
+[] unit testing?
+
+## Main topics of the course
 
 * React! And an assortment of libraries.
 * Node
 * NPM
 * Git och github*
 
-### Intro: What is react?
+### React
 
-#### Why use react?
+#### Why use?
+
 #### Compared to jQuery/"vanilla JavaScript".
+
 #### Speed
-* It was faster then comparable tools (templates etc).
+
+* It was "faster" then comparable tools (templates etc) at the time.
+* How about today?
 
 #### Complexity
+
 * When an application grows bigger it help to have a common structure to reason about. otherwise everything
-becomes a tangles mess.
-
-#### More
-när vi kommit in i det lite mer, ska jag gå igenom lite mer hur react
-     fungerar bakom kulisserna
-#### Visa exempel på sidor som använder react.
-
-### Intro-föreläsning: Vad är node
-
-Ytligt. Hur det funkar senare – different imports (commonjs vs es6)
-
-### Intro-föreläsning: Vad är npm
-
-Ytligt. Kommer med node.
+becomes a tangled mess.
 
 ### När react:
 
 * React is the best tool for many things, but not all the things
-* Vad löser ramverk som react? Påbyggnad på varför från ovan.
+* What does frameworks like react solve?
 * What makes front-end exiting?/One of the problems with front-end.
 * All the moving parts node vs deno vs bun. npm vs yarn vs pnpm vs npx.
 
-### Fråga om vilka Editors de använder?
-### Vad de använder för operativsystem?
-### Vikten av det viktigaste är att lära sig att lära sig själv
+#### More
 
-### Verktyg
+när vi kommit in i det lite mer, ska jag gå igenom lite mer hur react fungerar bakom kulisserna
+
+#### Examples of react.
+
+### What is Node?
+
+Ytligt. Hur det funkar senare – different imports (commonjs vs es6)
+
+### What is npm?
+
+Ytligt. Kommer med node.
+
+## Students thoughts 2
+
+### Editors?
+
+* What do they use?
+* What should they try
+
+### Operating systems?
+
+### Importance of being you own teacher
+
+### Tools
 Jag vill att ni lär er använda de verktyg, som jag och alla andra programmerare använder sig av för att hitta lösningar när vi inte kan.
 
 YouTube
