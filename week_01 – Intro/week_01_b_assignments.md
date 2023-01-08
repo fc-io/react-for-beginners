@@ -1,122 +1,43 @@
-# Uppgifter – alla som jag går igenom ska ni också göra själva i någon form.
-## Vecka 1 basics + html/css + interaktivitet 1
+# Vecka 1 – Intro
 
-React basics
+**Basics + html/css + Interactivity 1**
 
-Ge dem en färdig-generad setup, som kan köras i browsern med hjälp av någon browser editor, för att börja snabbt med react.
+### Show – React basics
 
-### A. Hemuppgift
+Start from a pre made template in an in-browser editor.
 
-Fundera ut en superenkelt react program som du skulle vilja göra eller som redan finns eller
+* Build a basic page layout.
+* Add a some kind of geometric shape.
+* Add another geometric shape.
+* Add a button that switches between the shapes.
 
-Exempel. Fröken ur. Vecka.nu (som uppdaterar vecka utan omladdning), Räkna ut många bokstäver/tecken/ord som finns i en text. (Miniräknare och TODO först stort förutom för väldigt ambitiös student)
+Show how the documentation, stackoverlflow, GPT, and copilot can help
 
-Lägg till en commit med 3 alternativ som du rankar.
+### Assignment – recreate and improve
 
-### B. Hemuppgift
+* recreate the code/steps of the presentation
+* but use shapes, and colors of your own chosing
+* also add an additional shape
+* the button should switch between all three shapes
+* make the button reflect wich shape is shown
+* update the title, you can watch the video below for an example if we don't go through this during class
 
-Hitta en designstil som du vill insperars från i din app. Förslagsvis från något på dribbble.
+You should be ready to show your result/progress during our next class. But don't need to be finished until next week.
+
+Watch:
+* How to use useState/useEffect – https://www.youtube.com/watch?v=QQYeipc_cik
+
+### Assignment – First idea
+
+Start thinking about a super simple react program that you would like to make (for next week). Either a copy of something that already exists or something new that you would like to make. Later during the course there will be opportunites to make more advanced programs but right now we want something super simple and focus mostly on styling/css.
+
+Exempel: Vecka.nu (som uppdaterar vecka utan omladdning, cool if the title can reflect that when pinned, make sure to test by changing the time), Räkna ut många bokstäver/tecken/ord som finns i en text. Random generator, flip a coin, like a dice. (Calculator and TODO-app too large this early on, except for overly very ambitious students)
+
+Your idea should later on be added to a github repo; for now you can jot it down wherever, or keep in your mind.
+
+### Assignment – Find a style
+
+Hitta en designstil som du vill insperars från i din app. Förslagsvis från något på https://dribbble.com/.
 
 Lägg till en map till ert repo, men bilder på stilen. Om ni vill ha olika stilar beroende på vilken idé ni i slutändan väljer lägg i olika mappar.
-
-### C. Hemuppgift
-
-Några enkla grejer som kräver enbart html och css/style kunskaper. Plus onClick and OnHover.
-
-## Vecka 2 node + npm + interaktivitet 2
-### A. Visa
-Installera node
-Skada en .js fil som skriver ut ditt namn i terminalen när du kör den genom node. Förklara olika typer av print outputs och
-
-Installera chalk (https://www.npmjs.com/package/chalk), och ge ditt namn någon rolig färg
-
-Installera senate versionen av GitHub.
-Skapa funktioner som kan skriva ut din version av GitHub, npm och node och vad else vi behöver.
-
-Skapa en funktion som skapar en readme.md fil.
-
-skapa ett repo, commita, och ladda upp inklusive generard fil. Publikt repo. Gör mitt publikt också så de kan gå tillbaka.
-
-### B. Hemuppgift.
-
-Skapa en funktion som generar datum + tid. Och Lägger till det till din fil när du kör ditt program.
-
-Och därefter en funktion som också skapar en html-fil som har samma innehåll.
-
-### C. Visa
-
-State, props, useState, useEffect
-
-### D. Visa
-
-Någon uppgift som använder state, props, useState, useEffect.
-
-## Vecka 3 – editors + build tools
-
-Gå igenom några olika byggverktyg. Rekommendera 1 som alla använder sig av.
-
-Gå igenom packade.json
-
-Gå igenom bra editor/libs för att validera och skriva kod.
-
-### A. Visa
-
-Visa något exempel på en enkel app, och hur flödet fungerar med byggverktyget, commita, och publisera till github pages.
-
-Visa/Gör om html-filen från tidigare till att använda react.
-
-Publisera till Github pages
-
-## Vecka 4:a – CSS i React
-
-### A. Visa
-
-Några exempel på hur css kan användas. Fördelar, nackdelar.
-
-### B. Hemuppgift.
-
-Bygg er idé från ##1. Försök återspegla den design ni hittade från dribbble.
-
-## Vecka 5 – API 1 + intro datatyper (eller kanske bara intro till datatyper) + interaktivitet 2.
-
-Prata om refaktorering, dry och och varför komponenter är en core feature med react. Skapa ett nytt repo (bättre för repition). Dra ner/forka kod från gamla repot (förklara forka, och varför man här vill/inte vill göra det).
-
-Skapa en intro/hemsida som kan länka till sub-projekt.
-
-Visa hur man skapa och länka ett domännamn. (Inget de behöver göra)
-
-Visa några publika avier.
-
-Förklara skillnader mellan rest och GraphQL.
-
-Visa något exempel som använder arrays/listor och hur det kan användas i react för. Förklara/repetera olika typer av lopar. Förklara varför For each och While är dåligt. Nämn lite om funktionell programmering.
-
-### B. Hemuppgift.
-
-De får göra något som använder ett api. Och som behöver att man använda loopar.
-
-Klicka för att hämta, el. dylikt för att få in interaktivt.
-
-### C. Hemuppgift.
-
-Lägg till en loading spinner.
-
-Publisera!
-
-## Vecka 6 – APIer 2 – olika bibliotek för att fetcha data. Redux/react-qry/apollo/relay etc.
-## Vecka 7 – Routers, transitions – Mer egna uppgifter, nivå todo eller dylikt
-## Vecka 8 – Mer egna uppgifter. Repetition och förtydliganden av concept. "Avancerade concept" som concurrency, use transition,
-## Vecka 9 – Ev. server side rendering. Next.js, remix och andra. Mer egna uppgifter
-## Vecka 10 – Mer egna uppgifter. Slutprojekt.
-
-
-
----
-Övriga uppgifter: någon där de får modifiera redan existerande kod
-Dynamiska formulär
-Skapa regex med gtp-3/copilot. Exempel för email, och eftersom ett sådant regex kan vara svårt att förstå. Skapa några manuella tester
-Auth, men känns lite för mycket
-
-
-
 

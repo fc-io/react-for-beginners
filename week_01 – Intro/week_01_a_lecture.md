@@ -22,10 +22,13 @@
 #### Compared to jQuery/"vanilla JavaScript".
 #### Speed
 * It was faster then comparable tools (templates etc).
+
 #### Complexity
 * When an application grows bigger it help to have a common structure to reason about. otherwise everything
 becomes a tangles mess.
-#### när vi kommit in i det lite mer, ska jag gå igenom lite mer hur react
+
+#### More
+när vi kommit in i det lite mer, ska jag gå igenom lite mer hur react
      fungerar bakom kulisserna
 #### Visa exempel på sidor som använder react.
 
@@ -67,3 +70,8 @@ Det här är är inte fusk. Och ingen programmerare oavsett nivå ska känns sig
 ### När man får jobbet – Imposter syndrom
 * varför det är viktigt att känna till?
 * Hur man övervinner
+
+### Uppgifter
+* Repition
+* Nytt
+* Alla som jag går igenom ska ni också göra själva i någon form.
