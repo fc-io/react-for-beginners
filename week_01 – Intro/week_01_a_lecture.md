@@ -20,20 +20,18 @@
 
 **HTML/CSS**
 
-* [ ] flexbox?
-* [ ] grids?
-* [ ] forms?
+- [ ] flexbox?
+- [ ] grids?
+- [ ] forms?
 
 **JavaScript**
 
-[ ] what methods?
-
-  [ ] loops? forEach, Map, reduce?
-
-[ ] localstorage?
-[ ] terneries?
-[ ] var/const/let/?
-[ ] unit testing?
+- [ ] what methods?
+  - [ ] loops? forEach, Map, reduce?
+- [ ] localstorage?
+- [ ] terneries?
+- [ ] var/const/let/?
+- [ ] unit testing?
 
 ## Main topics of the course
 
