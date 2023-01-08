@@ -20,14 +20,16 @@
 
 **HTML/CSS**
 
-[] flexbox?
-[] grids?
-[] forms?
+* [] flexbox?
+* [] grids?
+* [] forms?
 
 **JavaScript**
 
 [] what methods?
+
   [] loops? forEach, Map, reduce?
+
 [] localstorage?
 [] terneries?
 [] var/const/let/?
@@ -100,18 +102,19 @@ ChatGPT/Github copilot
 Det här är är inte fusk. Och ingen programmerare oavsett nivå ska känns sig dum för att minnet brister. Oavsett om det är gällande något basalt eller något avancerat.
 
 ### Om arbetsmarknaden
-* efterfrågan på react-kunskap
+* Efterfrågan på react-kunskap
 * hur man tar sig dit om man vill jobba med react – första jobbet ("oftast") det svåraste,
 * What else will you need in addition to this course?
   * more practice
   * typescript
-  * react native, SSR (next.js)
+  * (react native, SSR – next.js)
+  * (old style of writing react)
 
 ### När man får jobbet – Imposter syndrom
 * Why it's important to know about
 * How to overcome
 
-### Uppgifter
+### About the Assignments
 * Repetition
 * Extend with additional functionality
 * Everything that I show, you will also do in some form.
