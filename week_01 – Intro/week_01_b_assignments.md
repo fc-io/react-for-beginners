@@ -33,7 +33,7 @@ Start thinking about a super simple react program that you would like to make (f
 
 Exempel: Vecka.nu (som uppdaterar vecka utan omladdning, cool if the title can reflect that when pinned, make sure to test by changing the time), Räkna ut många bokstäver/tecken/ord som finns i en text. Random generator, flip a coin, like a dice. (Calculator and TODO-app too large this early on, except for overly very ambitious students)
 
-Your idea should later on be added to a github repo; for now you can jot it down wherever, or keep in your mind.
+Your idea should later on be added to a github repo (we will go about how to use git and github next week); for now you can jot it down wherever, or keep in your mind.
 
 ### Assignment – Find a style
 
