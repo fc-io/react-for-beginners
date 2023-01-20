@@ -30,7 +30,7 @@
 ## Show – Date and Time (if we have time)
 
 * working with dates and time
-* Dealing with dates is a mayor problem. List problems.
+* Dealing with dates is a major problem. List problems.
 * How to avoid many of the problems. Tests, tests and a declarative approach.
 
 ## Assignment – recreate and improve
