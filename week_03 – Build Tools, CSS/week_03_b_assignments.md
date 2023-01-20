@@ -1,4 +1,5 @@
-## Vecka 3 – Build tools + CSS
+<!-- TODO/TBD -->
+# Week 3 – Build tools + CSS
 editors + build tools
 
 Turbopack (webpack) vs vite
@@ -32,7 +33,6 @@ Några exempel på hur css kan användas. Fördelar, nackdelar.
 ### B. Hemuppgift.
 
 Bygg er idé från ##1. Försök återspegla den design ni hittade från dribbble.
-
 
 
 ### For next week

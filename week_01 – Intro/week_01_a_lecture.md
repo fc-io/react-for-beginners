@@ -42,12 +42,19 @@ Online participants; write in the chat.
 - [ ] eslint?
 - [ ] prettier?
 
+**Other tools**
+- [ ] Node?
+- [ ] React?
+- [ ] NPM?
+- [ ] Git?
+- [ ] GitHub?
+
 ## Main topics of the course
 
 * React! And an assortment of libraries to use React efficiently.
 * Node
 * NPM
-* Git och GitHub
+* (Git och GitHub)
 
 ## React – Why use?
 

@@ -11,7 +11,7 @@
 * Create a function that creates a stuff.md file with the above print outs.
 * Add an argument parser.
 
-## Show – Git and GitHub
+## Show – Git and GitHub (they are probably familiar with git, but if needed)
 
 * (add an ssh key)
 * Local init
@@ -25,6 +25,7 @@
 * diff
 * status
 * clone
+* pull requests (save until another lecture)
 
 ## Show – Date and Time (if we have time)
 
