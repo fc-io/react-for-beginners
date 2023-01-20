@@ -48,6 +48,7 @@ Online participants; write in the chat.
 - [ ] NPM?
 - [ ] Git?
 - [ ] GitHub?
+- [ ] Sketch/Figma/Photoshop
 
 ## Main topics of the course
 
@@ -162,4 +163,5 @@ developers use when coding.
   I write for you to access later and feel free to take photos, screenshots or
   record. I will also add several videos that will explain important concepts
   in more depth.
-* We'll begin most lectures by one of you showing your progress or results.
+* We'll begin most lectures by one (or a few) of you showing your progress or
+  results.

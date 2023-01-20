@@ -9,7 +9,7 @@ Visa hur man skapa och länka ett domännamn. (Inget de behöver göra)
 
 Visa några publika avier.
 
-Förklara skillnader mellan rest och GraphQL.
+Förklara skillnader mellan rest och GraphQL och tRCP
 
 Visa något exempel som använder arrays/listor och hur det kan användas i react för. Förklara/repetera olika typer av lopar. Förklara varför For each och While är dåligt. Nämn lite om funktionell programmering.
 
