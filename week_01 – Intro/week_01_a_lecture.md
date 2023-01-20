@@ -137,7 +137,7 @@ developers use when coding.
 * What else will you need in addition to this course?
   * more practice
   * typescript
-  * (react native, SSR – next.js)
+  * (react native, SSR – next.js, should prob have time to introduce next)
   * (Docker)
   * (old style of writing react)
 
@@ -158,8 +158,8 @@ developers use when coding.
   grade).
 * When live coding I will not wait for you to follow along. You can if you like,
   but the important part is that you watch and follow. You will get plenty of
-  time to figure it out for yourself later. I will publish most/all of the code I
-  write for you to access later and feel free to take photos, screenshots or
+  time to figure it out for yourself later. I will publish most/all of the code
+  I write for you to access later and feel free to take photos, screenshots or
   record. I will also add several videos that will explain important concepts
   in more depth.
 * We'll begin most lectures by one of you showing your progress or results.

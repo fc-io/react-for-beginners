@@ -41,12 +41,12 @@
 * Add a function that writes current date and time to your file when you run
   your script.
 * Add a function that writes how long it was since you started this course.
-* Allow for sening in a date as an argument and writes the date to file as well
+* Allow for sending in a date as an argument and writes the date to file as well
   as if the argument date was before, after or on the current date.
-* Make sure all the dates and times has a nice formatting that "everyone" would
+* Make sure all the dates and times has a nice formatting that "everyone" could
   understand.
-* Add a function that also creates a runnable html-file (stuff.html) in addition to the
-  stuff.md file. Include releveant markup and styling.
+* Add a function that also creates a runnable html-file (stuff.html) in addition
+  to the stuff.md file. Include releveant markup and styling.
 * Create a public GitHub repo and "upload" you code. Make sure to setup you
   GitHub account with an ssh-key.
 
