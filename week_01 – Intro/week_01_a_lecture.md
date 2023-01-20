@@ -1,25 +1,29 @@
-# Intro
+# Week 1 – Intro: Lecture
 
 ## Intro to the intro
 
 ### React is awesome
 
 * Awesomeness
-* What does it solve?
 
-### Leacturer presentation
+### Lecturer presentation
 
 * About me
 * What I've worked on.
+* Ask questions! Interrupt! Help me keep track of questions from online
+  participants.
 
 ## Students thoughts 1
 
 ### What are you looking forward to?
 
-### Vad programs/programming have they done before?
+Online participants; write in the chat.
+
+### What programs/programming have you done?
 
 **HTML/CSS**
 
+- [ ] absolute/relative positioning?
 - [ ] flexbox?
 - [ ] grids?
 - [ ] forms?
@@ -28,91 +32,118 @@
 
 - [ ] what methods?
   - [ ] loops? forEach, Map, reduce?
+  - [ ] promises?
+  - [ ] async/await?
 - [ ] localstorage?
 - [ ] terneries?
-- [ ] var/const/let/?
+- [ ] var/const/let?
 - [ ] unit testing?
+- [ ] eslint?
+- [ ] prettier?
 
 ## Main topics of the course
 
-* React! And an assortment of libraries.
+* React! And an assortment of libraries to use React efficiently.
 * Node
 * NPM
-* Git och github*
+* Git och GitHub
 
-### React
+## React – Why use?
 
-#### Why use?
+### Compared to jQuery/"vanilla JavaScript".
 
-#### Compared to jQuery/"vanilla JavaScript".
-
-#### Speed
+### Speed
 
 * It was "faster" then comparable tools (templates etc) at the time.
 * How about today?
 
-#### Complexity
+### Complexity
 
-* When an application grows bigger it help to have a common structure to reason about. otherwise everything
-becomes a tangled mess.
+* When an application grows bigger it help to have a common structure to reason
+  about. otherwise everything becomes a tangled mess.
 
-### När react:
+### When React?
 
 * React is the best tool for many things, but not all the things
 * What does frameworks like react solve?
-* What makes front-end exiting?/One of the problems with front-end.
-* All the moving parts node vs deno vs bun. npm vs yarn vs pnpm vs npx.
+* What makes front-end exiting/though?
+* Usage: https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/
+* All the moving parts node vs deno vs bun. npm vs yarn vs pnpm vs npx vs nvm.
 
-#### More
+### Examples of React usage.
 
-när vi kommit in i det lite mer, ska jag gå igenom lite mer hur react fungerar bakom kulisserna
+* Wappalyzer
+* https://www.facebook.com/
+* https://www.instagram.com/
+* https://www.netflix.com/
+* https://www.tiktok.com/
+* https://www.airbnb.com/
+* https://www.nytimes.com
+* https://www.theverge.com/
+* https://www.svt.se/
+* etc...
 
-#### Examples of react.
+### More
 
-### What is Node?
+Later on we'll talk a bit what makes react work under the hood.
 
-Ytligt. Hur det funkar senare – different imports (commonjs vs es6)
+## What is Node?
 
-### What is npm?
+Brief intro. How it works and how to use it we'll talk about later on.
 
-Ytligt. Kommer med node.
+## What is npm?
+
+Briefly. Bundled with node.
 
 ## Students thoughts 2
 
 ### Editors?
 
-* What do they use?
-* What should they try
+* What do you use?
+* What to use?
+* What to try?
 
 ### Operating systems?
 
-### Importance of being you own teacher
 
-### Tools
-Jag vill att ni lär er använda de verktyg, som jag och alla andra programmerare använder sig av för att hitta lösningar när vi inte kan.
+## Importance of being you own teacher
 
-YouTube
-Stack overflow
-Documentation
+## Tools for learning (and coding)
 
-ChatGPT/Github copilot
+I'd like for you to start using many of the tools that I and plenty of other
+developers use when coding.
 
-Det här är är inte fusk. Och ingen programmerare oavsett nivå ska känns sig dum för att minnet brister. Oavsett om det är gällande något basalt eller något avancerat.
+YouTube Stack overflow Documentation ChatGPT/Github copilot
 
-### Om arbetsmarknaden
-* Efterfrågan på react-kunskap
-* hur man tar sig dit om man vill jobba med react – första jobbet ("oftast") det svåraste,
+### The Job Market
+
+* The dominant JavaScript framework.
+* How to get a React job – your first job is usually the hardest to get.
 * What else will you need in addition to this course?
   * more practice
   * typescript
   * (react native, SSR – next.js)
+  * (Docker)
   * (old style of writing react)
 
-### När man får jobbet – Imposter syndrom
+### When you get the job – Imposter syndrome
+
 * Why it's important to know about
 * How to overcome
 
 ### About the Assignments
-* Repetition
-* Extend with additional functionality
-* Everything that I show, you will also do in some form.
+
+* The assignments *are* this course!
+* I will live code most of the key aspects of many of the assignments you'll go
+  through.
+* Everything that I show, you will also do in some form. For repetition. And to
+  make mistakes that will make you learn better.
+* Then you should extend with additional functionality. Bonus tasks if you'd
+  like a higher grade (all bonus tasks should be done to receive a higher
+  grade).
+* When live coding I will not wait for you to follow along. You can if you like,
+  but the important part is that you watch and follow. You will get plenty of
+  time to figure it out for yourself later. I will publish most/all of the code I
+  write for you to access later and feel free to take photos, screenshots or
+  record. I will also add several videos that will explain important concepts
+  in more depth.
