@@ -2,7 +2,7 @@
 
 **Basics + HTML/CSS + Interactivity 1**
 
-### Show – React basics
+## Show – React basics
 
 In order to quickly get familiar with React, we shall, for this week, use an
 online boilerplate at https://codesandbox.io/s/react-new. You can create an
@@ -17,7 +17,7 @@ build on it further in the coming weeks.
 
 Show how the documentation, stack overflow, GPT, and copilot can help
 
-### Assignment – recreate and improve
+## Assignment – recreate and improve
 
 * Recreate the code/steps of the presentation
 * ...but use content, styling and shapes of your own choosing
@@ -43,7 +43,7 @@ don't need to be finished until our first lecture next week.
 Watch:
 * How to use useState/useEffect – https://www.youtube.com/watch?v=QQYeipc_cik
 
-### Assignment – First idea
+## Assignment – First idea
 
 Start thinking about a super simple react site that you would like to make
 (for week 3). Either a copy of something that already exists or something
@@ -51,25 +51,27 @@ new that you would like to make. Later during the course there will be
 opportunities to make more advanced programs but right now we want something
 super simple and focus mostly on styling/CSS.
 
-Example:
+Examples:
 * Calculate letters/charachters/words in a text.
 * Random number generator: flip a coin or like a dice (1-6).
 * Vecka.nu (that updates without refresh, cool if the title can reflect that
-  when pinned, make sure to test by changing the time),
+  when pinned, make sure to test by changing the time on your computer),
+* Calculate how many days it is until Christmas (or until next CSN payment, or
+  whatever).
 
-(Calculator and TODO-app too large this early on)
+(Calculator and TODO-app too large of a project at this stage.)
 
 Your idea should later on be added to a github repo (we will go about how to use
 git and github next week).
 
-### Assignment – Find a style
+## Assignment – Find a style
 
 Find a visual style to use for your app. A suggestion is to pick something from
  https://dribbble.com/.
 
 Also to be included in you github repo later on but for now you can save a link.
 
-### For next week
+## For next week
 
 Get a head start by watching the videos below. Or save them for next week, up to
 you.
@@ -78,7 +80,7 @@ Watch:
 * Getting started with Node (and npm) https://www.youtube.com/watch?v=ENrzD9HAZK4
 * Learn Git In 15 Minutes https://www.youtube.com/watch?v=USjZcfj8yxE
 * Git vs. GitHub: What's the difference? https://www.youtube.com/watch?v=wpISo9TNjfU
-* Which JS Framework is best? https://www.youtube.com/watch?v=cuHDQhDhvPE&t=43s
-* Optional: Build tools – Turbopack https://www.youtube.com/watch?v=6ZwnBI4Rb1w
-* Optional: Frameworks https://youtube.com/watch?v=HG3TjJMI_-I&t=2460
 * Optional: Linus Torvalds introducing Git https://www.youtube.com/watch?v=4XpnKHJAok8
+* Optional: Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth  https://www.youtube.com/watch?v=DVRQoVRzMIY
+* Optional: Which JS Framework is best? https://www.youtube.com/watch?v=cuHDQhDhvPE&t=43s
+* Optional: Frameworks https://youtube.com/watch?v=HG3TjJMI_-I&t=2460

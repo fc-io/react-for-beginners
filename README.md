@@ -1,4 +1,4 @@
-# React for beginners
+# React for beginners (a teachers boilerplate)
 
 **Welcome to a beginner's guide to React!**
 

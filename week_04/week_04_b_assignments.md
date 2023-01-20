@@ -1,11 +1,3 @@
 
-## Vecka 4:a – CSS i React
-
-### A. Visa
-
-Några exempel på hur css kan användas. Fördelar, nackdelar.
-
-### B. Hemuppgift.
-
-Bygg er idé från ##1. Försök återspegla den design ni hittade från dribbble.
-
+ Learn React Router v6 In 45 Minutes  – https://www.youtube.com/watch?v=Ul3y1LXxzdU
+Routers, transitions – 

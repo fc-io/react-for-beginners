@@ -32,6 +32,7 @@ Online participants; write in the chat.
 
 - [ ] what methods?
   - [ ] loops? forEach, Map, reduce?
+  - [ ] fetch?
   - [ ] promises?
   - [ ] async/await?
 - [ ] localstorage?
@@ -105,6 +106,10 @@ Briefly. Bundled with node.
 
 ### Operating systems?
 
+- [ ] MacOS
+- [ ] Linux
+- [ ] Windows
+- [ ] Other?
 
 ## Importance of being you own teacher
 
@@ -113,7 +118,10 @@ Briefly. Bundled with node.
 I'd like for you to start using many of the tools that I and plenty of other
 developers use when coding.
 
-YouTube Stack overflow Documentation ChatGPT/Github copilot
+* YouTube
+* Stack overflow
+* Documentation
+* ChatGPT/Github copilot
 
 ### The Job Market
 
@@ -147,3 +155,4 @@ YouTube Stack overflow Documentation ChatGPT/Github copilot
   write for you to access later and feel free to take photos, screenshots or
   record. I will also add several videos that will explain important concepts
   in more depth.
+* We'll begin most lectures by one of you showing your progress or results.

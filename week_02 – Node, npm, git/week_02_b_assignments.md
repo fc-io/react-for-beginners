@@ -1,33 +1,79 @@
-## Week 2 – Going local: node + npm + github + interaktivitet 2
+# Week 2 – Node + NPM + Git + GitHub: Assignments
 
-### A. Visa
-Installera node
-Skada en .js fil som skriver ut ditt namn i terminalen när du kör den genom node. Förklara olika typer av print outputs och
+## Show – Node and NPM basics
 
-Installera chalk (https://www.npmjs.com/package/chalk), och ge ditt namn någon rolig färg
+* Show "Repl"-mode
+* Create a .js file that prints your namne in the terminal. Explain different
+  print outputs.
+* Init NPM. Explain package.json and lock files.
+* Install chalk (https://www.npmjs.com/package/chalk). Add some fancy coloring.
+* Create a function that can print out your version of Git, NPM och Node.
+* Create a function that creates a stuff.md file with the above print outs.
+* Add an argument parser.
 
-Installera senate versionen av GitHub.
-Skapa funktioner som kan skriva ut din version av GitHub, npm och node och vad else vi behöver.
+## Show – Git and GitHub
 
-Skapa en funktion som skapar en readme.md fil.
+* (add an ssh key)
+* Local init
+* Greate remote GitHub repo
+* Commit, Log, Push
+* Edit on Github.
+* Pull
+* Show rebase usecase
+* Show creating branches
+* .gitignore
+* diff
+* status
+* clone
 
-skapa ett repo, commita, och ladda upp inklusive generard fil. Publikt repo. Gör mitt publikt också så de kan gå tillbaka.
+## Show – Date and Time (if we have time)
 
-### B. Hemuppgift.
+* working with dates and time
 
-Skapa en funktion som generar datum + tid. Och Lägger till det till din fil när du kör ditt program.
+## Assignment – recreate and improve
 
-Och därefter en funktion som också skapar en html-fil som har samma innehåll.
+* Recreate the code/steps of the presentation (Node and Npm).
+* Add a date library of your choice (from npm, checkout
+  https://2022.stateofjs.com/en-US/other-tools/#date_management for examples of
+  date libaries, or look at the temporal video below). Make sure it runs in
+  Node and not just the browser (either by looking at the docs or by testing).
+* Add a function that writes current date and time to your file when you run
+  your script.
+* Add a function that writes how long it was since you started this course.
+* Allow for sening in a date as an argument and writes the date to file as well
+  as if the argument date was before, after or on the current date.
+* Make sure all the dates and times has a nice formatting that "everyone" would
+  understand.
+* Add a function that also creates a runnable html-file (stuff.html) in addition to the
+  stuff.md file. Include releveant markup and styling.
+* Create a public GitHub repo and "upload" you code. Make sure to setup you
+  GitHub account with an ssh-key.
 
-### C. Visa
+Watch:
+* Optional: Learn Temporal API In 17 Minutes
+  https://www.youtube.com/watch?v=oOK3UzLJ_Cs
 
-State vs. props
+## Assignment – First idea
 
-### D. Visa
+* Add a mention of the idea, from last week, that you've decided on, to your
+  github project's Readme.md.
 
-Någon uppgift som använder state, props
+## Assignment – Find a style
 
+* Add the style that you've decided on to your github project. Add both a link
+  and an image (for you to figure out how) to your Readme.md file.
+
+## For next week
+
+Get a head start by watching the videos below. Or save them for next week, up to
+you.
 
 Watch:
 
+* Module Bundlers Explained... – https://www.youtube.com/watch?v=5IG4UmULyoA
 * Build tools – Vite https://www.youtube.com/watch?v=KCrXgy8qtjM
+* Optional: Build tools – Turbopack https://www.youtube.com/watch?v=6ZwnBI4Rb1w
+* Should You Use Tailwind CSS?  https://www.youtube.com/watch?v=hdGsFpZ0J2E
+* Tailwind CSS is the worst https://www.youtube.com/watch?v=lHZwlzOUOZ4
+* Optional: I didn't realize THIS about Tailwind...
+  https://www.youtube.com/watch?v=ZuLn42merAg
