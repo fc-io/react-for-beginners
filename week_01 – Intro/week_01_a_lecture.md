@@ -43,6 +43,7 @@ Online participants; write in the chat.
 - [ ] prettier?
 
 **Other tools**
+
 - [ ] Node?
 - [ ] React?
 - [ ] NPM?

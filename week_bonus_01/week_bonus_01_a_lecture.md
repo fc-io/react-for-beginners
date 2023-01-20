@@ -4,7 +4,7 @@ For when we have a lot of extra time.
 
 ## My setup.
 
-* ZSH
+* ZSH/.dotfiles
 * Sublime
 * Visual Studio Code
 * VMs
@@ -12,7 +12,7 @@ For when we have a lot of extra time.
 
 ## NPM packages I almost always use
 
-## Other great programs for developers to use.
+## Other great programs for developers (on Mac) to use.
 
 * Pure paste
 * Rectangle
@@ -24,5 +24,4 @@ For when we have a lot of extra time.
 ## More about functional programming
 
 ## Other languages that can be interesting to learn
-
 

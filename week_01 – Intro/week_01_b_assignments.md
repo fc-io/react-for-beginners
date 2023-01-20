@@ -34,7 +34,7 @@ Show how the documentation, stack overflow, GPT, and copilot can help
   article has another styling than the other buttons when the active article is
   shown.)
 * BONUS: Add button that shows all articles at the same time.
-* BONUS: update the title depeding on what article is shown. You can watch the
+* BONUS: update the title depending on what article is shown. You can watch the
   video below for an example if we don't go through this during class
 * Make sure you save your work.
 

@@ -3,7 +3,7 @@
 ## Show – Node and NPM basics
 
 * Show "Repl"-mode
-* Create a .js file that prints your namne in the terminal. Explain different
+* Create a .js file that prints your name in the terminal. Explain different
   print outputs.
 * Init NPM. Explain package.json and lock files.
 * Install chalk (https://www.npmjs.com/package/chalk). Add some fancy coloring.
@@ -19,7 +19,7 @@
 * Commit, Log, Push
 * Edit on Github.
 * Pull
-* Show rebase usecase
+* Show rebase use-case
 * Show creating branches
 * .gitignore
 * diff
@@ -30,13 +30,15 @@
 ## Show – Date and Time (if we have time)
 
 * working with dates and time
+* Dealing with dates is a mayor problem. List problems.
+* How to avoid many of the problems. Tests, tests and a declarative approach.
 
 ## Assignment – recreate and improve
 
 * Recreate the code/steps of the presentation (Node and Npm).
 * Add a date library of your choice (from npm, checkout
   https://2022.stateofjs.com/en-US/other-tools/#date_management for examples of
-  date libaries, or look at the temporal video below). Make sure it runs in
+  date libraries, or look at the temporal video below). Make sure it runs in
   Node and not just the browser (either by looking at the docs or by testing).
 * Add a function that writes current date and time to your file when you run
   your script.
@@ -46,7 +48,7 @@
 * Make sure all the dates and times has a nice formatting that "everyone" could
   understand.
 * Add a function that also creates a runnable html-file (stuff.html) in addition
-  to the stuff.md file. Include releveant markup and styling.
+  to the stuff.md file. Include relevant markup and styling.
 * Create a public GitHub repo and "upload" you code. Make sure to setup you
   GitHub account with an ssh-key.
 
