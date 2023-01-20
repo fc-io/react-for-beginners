@@ -27,11 +27,12 @@ Show how the documentation, stack overflow, GPT, and copilot can help
   (see below). The name of the idea/project and a motivation to why you choose
   that idea.
 * An additional article, the 3rd article, should be about the design style you
-  wish to apply to your first personal project (see below for
-  instructions). Include a motivation as to why you picked that style.
+  wish to apply to your first personal project (see below for instructions).
+  Include a motivation as to why you picked that style.
 * Add buttons that switch between all three articles (like pagination).
 * Make the button reflect which article is shown. (I.e. the button for a given
-  article has another styling than the other buttons when the active article is shown.)
+  article has another styling than the other buttons when the active article is
+  shown.)
 * BONUS: Add button that shows all articles at the same time.
 * BONUS: update the title depeding on what article is shown. You can watch the
   video below for an example if we don't go through this during class
@@ -46,8 +47,8 @@ Watch:
 ## Assignment – First idea
 
 Start thinking about a super simple react site that you would like to make
-(for week 3). Either a copy of something that already exists or something
-new that you would like to make. Later during the course there will be
+(for week 3). Either a copy of something that already exists or something new
+that you would like to make. Later during the course there will be
 opportunities to make more advanced programs but right now we want something
 super simple and focus mostly on styling/CSS.
 
@@ -67,9 +68,12 @@ git and github next week).
 ## Assignment – Find a style
 
 Find a visual style to use for your app. A suggestion is to pick something from
- https://dribbble.com/.
+https://dribbble.com/. Typeface and colors would be something for you to
+modify, but other that that your app should match the style you pick very
+closely.
 
-Also to be included in you github repo later on but for now you can save a link.
+Also to be included in you github repo later on but for now you can save a
+link.
 
 ## For next week
 

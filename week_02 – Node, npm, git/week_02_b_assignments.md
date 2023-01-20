@@ -11,7 +11,7 @@
 * Create a function that creates a stuff.md file with the above print outs.
 * Add an argument parser.
 
-## Show – Git and GitHub (they are probably familiar with git, but if needed)
+## Show – Git and GitHub (they are maybe familiar with git, but if needed)
 
 * (add an ssh key)
 * Local init
@@ -73,8 +73,7 @@ Watch:
 
 * Module Bundlers Explained... – https://www.youtube.com/watch?v=5IG4UmULyoA
 * Build tools – Vite https://www.youtube.com/watch?v=KCrXgy8qtjM
-* Optional: Build tools – Turbopack https://www.youtube.com/watch?v=6ZwnBI4Rb1w
 * Should You Use Tailwind CSS?  https://www.youtube.com/watch?v=hdGsFpZ0J2E
 * Tailwind CSS is the worst https://www.youtube.com/watch?v=lHZwlzOUOZ4
-* Optional: I didn't realize THIS about Tailwind...
-  https://www.youtube.com/watch?v=ZuLn42merAg
+* Optional: Build tools – Turbopack https://www.youtube.com/watch?v=6ZwnBI4Rb1w
+* Optional: I didn't realize THIS about Tailwind... https://www.youtube.com/watch?v=ZuLn42merAg

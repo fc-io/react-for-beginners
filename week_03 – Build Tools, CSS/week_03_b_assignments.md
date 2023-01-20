@@ -1,5 +1,5 @@
 <!-- TODO/TBD -->
-# Week 3 – Build tools + CSS
+# Week 3 – Build tools + CSS + Custom Fonts: Assignments
 editors + build tools
 
 Turbopack (webpack) vs vite
@@ -7,6 +7,12 @@ Turbopack (webpack) vs vite
 Gå igenom några olika byggverktyg. Rekommendera 1 som alla använder sig av.
 
 Gå igenom bra editor/libs för att validera och skriva kod.
+
+### Custom fonts
+
+* Optional: https://www.npmjs.com/package/vite-plugin-fonts
+* Optional: How to add custom fonts in React js  https://www.youtube.com/watch?v=_0gjsLuZRsw
+* Optional: How to import fonts in React js https://www.youtube.com/watch?v=RAuXFysXkd0\
 
 ### A. Visa
 
