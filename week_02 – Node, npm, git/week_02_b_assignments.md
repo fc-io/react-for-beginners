@@ -45,7 +45,7 @@
 * Add a function that writes how long it was since you started this course.
 * Allow for sending in a date as an argument and writes the date to file as well
   as if the argument date was before, after or on the current date.
-* Make sure all the dates and times has a nice formatting that "everyone" could
+* Make sure all the dates and times has a nice formatting that "everyone" can
   understand.
 * Add a function that also creates a runnable html-file (stuff.html) in addition
   to the stuff.md file. Include relevant markup and styling.
