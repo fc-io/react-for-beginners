@@ -38,7 +38,7 @@ Show how the documentation, stack overflow, GPT, and copilot can help
   video below for an example if we don't go through this during class
 * Make sure you save your work.
 
-You should be ready to show your result/progress during our next class. But you
+You should be ready to show your result/progress during our next lecture. But you
 don't need to be finished until our first lecture next week.
 
 Watch:
