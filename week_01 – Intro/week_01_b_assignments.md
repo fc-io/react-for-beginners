@@ -58,7 +58,7 @@ Examples:
 * Vecka.nu (that updates without refresh, cool if the title can reflect that
   when pinned, make sure to test by changing the time on your computer),
 * Calculate how many days it is until Christmas or until next CSN payment, or
-  whatever (We will talk about dates and time next week).
+  whatever (We will talk about how to work with dates and time next week).
 
 (Calculator and TODO-app too large of a project at this stage.)
 
