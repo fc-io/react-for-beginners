@@ -53,7 +53,7 @@ opportunities to make more advanced programs but right now we want something
 super simple and focus mostly on styling/CSS.
 
 Examples:
-* Calculate letters/charachters/words in a text.
+* Calculate letters/characters/words in a text.
 * Random number generator: flip a coin or like a dice (1-6).
 * Vecka.nu (that updates without refresh, cool if the title can reflect that
   when pinned, make sure to test by changing the time on your computer),
