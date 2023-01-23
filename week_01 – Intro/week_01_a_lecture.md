@@ -70,7 +70,7 @@ Online participants; write in the chat.
 ### Complexity
 
 * When an application grows bigger it help to have a common structure to reason
-  about. otherwise everything becomes a tangled mess.
+  about. Otherwise everything becomes a tangled mess.
 
 ### When React?
 
@@ -95,11 +95,11 @@ Online participants; write in the chat.
 
 ### More
 
-Later on we'll talk a bit what makes react work under the hood.
+Later on we'll talk a bit about what makes react work under the hood.
 
 ## What is Node?
 
-Brief intro. How it works and how to use it we'll talk about later on.
+Brief intro. How it works and how to use it we'll talk more about Node later on.
 
 ## What is npm?
 
