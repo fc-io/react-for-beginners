@@ -131,6 +131,7 @@ developers use when coding.
 * Stack overflow
 * Documentation
 * ChatGPT/Github copilot
+* Twitter/reddit
 
 ## The Job Market
 
