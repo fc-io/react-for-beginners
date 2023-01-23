@@ -132,7 +132,7 @@ developers use when coding.
 * Documentation
 * ChatGPT/Github copilot
 
-### The Job Market
+## The Job Market
 
 * The dominant JavaScript framework.
 * How to get a React job – your first job is usually the hardest to get.
@@ -148,7 +148,7 @@ developers use when coding.
 * Why it's important to know about
 * How to overcome
 
-### About the Assignments
+## About the Assignments
 
 * The assignments *are* this course!
 * I will live code most of the key aspects of many of the assignments you'll go
