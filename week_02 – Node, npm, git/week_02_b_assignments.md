@@ -13,10 +13,10 @@
 
 ## Show – Git and GitHub (they are maybe familiar with git, but if needed)
 
-* (add an ssh key)
 * Local init
 * Greate remote GitHub repo
 * Commit, Log, Push
+* (add an ssh key)
 * Edit on Github.
 * Pull
 * Show rebase use-case
@@ -53,8 +53,7 @@
   GitHub account with an ssh-key.
 
 Watch:
-* Optional: Learn Temporal API In 17 Minutes
-  https://www.youtube.com/watch?v=oOK3UzLJ_Cs
+* Optional: Learn Temporal API In 17 Minutes https://www.youtube.com/watch?v=oOK3UzLJ_Cs
 
 ## Assignment – First idea
 
