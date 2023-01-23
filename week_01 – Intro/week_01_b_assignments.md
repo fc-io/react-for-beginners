@@ -73,7 +73,7 @@ modify, but other that that your app should match the style you pick very
 closely.
 
 Also to be included in you github repo later on but for now you can save a
-link.
+link or an image.
 
 ## For next week
 
