@@ -25,3 +25,33 @@ For when we have a lot of extra time.
 
 ## Other languages that can be interesting to learn
 
+Which ones? Would help you in general, or as a web programmer?
+
+* C
+* C++
+* C#
+* Java
+* Kotlin
+* Scala
+* Clojure
+* Lisp (Racket)
+* Haskell
+* Elm
+* PureScript
+* TypeScript
+* Python
+* Rust
+* Swift
+* Objective-C
+* Ocaml/reason
+* Elexis/Erlang
+* Ruby
+* PHP/Hack
+* Go
+
+## Other tools?
+* SQL
+* MongoDB
+* Other databases? Redis, graph...
+* WebAssembly
+* 3D graphics/WebGL/WebGPU/Three.js
