@@ -36,7 +36,7 @@ Online participants; write in the chat.
   - [ ] promises?
   - [ ] async/await?
 - [ ] localstorage?
-- [ ] terneries?
+- [ ] terneries/Nullish coalescing operator/Nullish coalescing assignment/Logical OR assignment?
 - [ ] var/const/let?
 - [ ] unit testing?
 - [ ] eslint?
