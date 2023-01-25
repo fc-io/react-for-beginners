@@ -69,7 +69,7 @@ git and github next week).
 ## Assignment – Find a style
 
 Find a visual style to use for your "First idea"-app. A suggestion is to pick something from
-https://dribbble.com/tags/opensource. Typeface, colors and icons would be something for you to
+https://dribbble.com/tags/free. Typeface, colors and icons would be something for you to
 modify if you like, but other that that your app should match the design you pick very
 closely.
 

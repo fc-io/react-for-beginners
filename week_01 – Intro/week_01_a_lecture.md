@@ -133,7 +133,9 @@ developers use when coding.
 * Documentation
 * ChatGPT/Github copilot
 * Twitter/mastodon (and reddit)
-    *
+    * @slicknet
+    * @FredKSchott
+    * @ChromiumDev
 
 ## The Job Market
 
