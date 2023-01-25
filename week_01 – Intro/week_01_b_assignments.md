@@ -36,7 +36,8 @@ Show how the documentation, stack overflow, GPT, and copilot can help
 * BONUS: Add button that shows all articles at the same time.
 * BONUS: update the title depending on what article is shown. You can watch the
   video below for an example if we don't go through this during class
-* Make sure you save your work.
+* Make sure you save your work and include a link to your public codesandbox in
+  the assingment hand in.
 
 You should be ready to show your result/progress during our next lecture. But you
 don't need to be finished until our first lecture next week.
@@ -67,13 +68,13 @@ git and github next week).
 
 ## Assignment – Find a style
 
-Find a visual style to use for your app. A suggestion is to pick something from
-https://dribbble.com/. Typeface and colors would be something for you to
-modify, but other that that your app should match the style you pick very
+Find a visual style to use for your "First idea"-app. A suggestion is to pick something from
+https://dribbble.com/tags/opensource. Typeface, colors and icons would be something for you to
+modify if you like, but other that that your app should match the design you pick very
 closely.
 
-Also to be included in you github repo later on but for now you can save a
-link or an image.
+Also to be included in you github repo later on (for now you can save a
+link for yourself).
 
 ## For next week
 

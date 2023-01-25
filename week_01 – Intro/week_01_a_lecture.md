@@ -49,7 +49,8 @@ Online participants; write in the chat.
 - [ ] NPM?
 - [ ] Git?
 - [ ] GitHub?
-- [ ] Sketch/Figma/Photoshop
+- [ ] Browser devloper tools Elements/Console/Network/Application?
+- [ ] Sketch/Figma/Photoshop?
 
 ## Main topics of the course
 
@@ -131,7 +132,8 @@ developers use when coding.
 * Stack overflow
 * Documentation
 * ChatGPT/Github copilot
-* Twitter/reddit
+* Twitter/mastodon (and reddit)
+    *
 
 ## The Job Market
 
@@ -144,10 +146,14 @@ developers use when coding.
   * (Docker)
   * (old style of writing react)
 
-### When you get the job – Imposter syndrome
+### When you get the job
+
+#### Imposter syndrome
 
 * Why it's important to know about
 * How to overcome
+
+#### Make sure you have/take the time to learn new things
 
 ## About the Assignments
 
@@ -163,7 +169,7 @@ developers use when coding.
   but the important part is that you watch and follow. You will get plenty of
   time to figure it out for yourself later. I will publish most/all of the code
   I write for you to access later and feel free to take photos, screenshots or
-  record. I will also add several videos that will explain important concepts
-  in more depth.
+  record (or help me remember to record). I will also add several videos that
+  will explain important concepts in more depth.
 * We'll begin most lectures by one (or a few) of you showing your progress or
   results.
