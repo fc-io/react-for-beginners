@@ -44,8 +44,9 @@ don't need to be finished until our first lecture next week.
 
 Watch:
 * How to use useState/useEffect – https://www.youtube.com/watch?v=QQYeipc_cik
+* Optional: 10 React Hooks Explained https://www.youtube.com/watch?v=TNhaISOUy6Q
 
-## Assignment – First idea
+## Assignment – Idea for First Personal React Project
 
 Start thinking about a super simple react site that you would like to make
 (for week 3). Either a copy of something that already exists or something new
@@ -66,7 +67,7 @@ Examples:
 Your idea should later on be added to a github repo (we will go about how to use
 git and github next week).
 
-## Assignment – Find a style
+## Assignment – Styling of First Personal React Project
 
 Find a visual style to use for your "First idea"-app. A suggestion is to pick something from
 https://dribbble.com/tags/free. Typeface, colors and icons would be something for you to

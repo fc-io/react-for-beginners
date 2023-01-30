@@ -63,6 +63,8 @@ Online participants; write in the chat.
 
 ### Compared to jQuery/"vanilla JavaScript".
 
+### SPA (vs ordinary sites/MPA)
+
 ### Speed
 
 * It was "faster" then comparable tools (templates etc) at the time.
@@ -71,7 +73,7 @@ Online participants; write in the chat.
 ### Complexity
 
 * When an application grows bigger it help to have a common structure to reason
-  about. Otherwise everything becomes a tangled mess.
+  about.
 
 ### When React?
 
@@ -80,6 +82,20 @@ Online participants; write in the chat.
 * What makes front-end exiting/though?
 * Usage: https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/
 * All the moving parts node vs deno vs bun. npm vs yarn vs pnpm vs npx vs nvm.
+* When other frameworks?
+
+### Other frameworks
+
+* Angular
+* Vue
+* Svelte.js
+* Preact
+* Solid.js
+* Qwik
+* Fresh (deno)
+* (Marko, for mpa/documents, not SPA)
+
+* SSR React – Next.js, Remix (and Astro)
 
 ### Examples of React usage.
 
@@ -128,7 +144,7 @@ Briefly. Bundled with node.
 I'd like for you to start using many of the tools that I and plenty of other
 developers use when coding.
 
-* YouTube
+* YouTube/Twitch
 * Stack overflow
 * Documentation
 * ChatGPT/Github copilot
@@ -136,6 +152,7 @@ developers use when coding.
     * @slicknet
     * @FredKSchott
     * @ChromiumDev
+    * the frameworks you are interested in.
 
 ## The Job Market
 
@@ -144,9 +161,10 @@ developers use when coding.
 * What else will you need in addition to this course?
   * more practice
   * typescript
-  * (react native, SSR – next.js, should prob have time to introduce next)
+  * (React Native)
   * (Docker)
   * (old style of writing react)
+  * (some backend knowledge, though not really)
 
 ### When you get the job
 
@@ -154,6 +172,12 @@ developers use when coding.
 
 * Why it's important to know about
 * How to overcome
+
+#### Working with others
+
+* Backend
+* UI/UX
+* Project managers
 
 #### Make sure you have/take the time to learn new things
 

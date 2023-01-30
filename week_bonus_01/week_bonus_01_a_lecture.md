@@ -21,6 +21,13 @@ For when we have a lot of extra time.
 * Kap
 * Password managers
 
+## TypeScript
+
+## Accessibility
+
+* ARIA
+* Tools
+
 ## More about functional programming
 
 ## Other languages that can be interesting to learn

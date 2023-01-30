@@ -1,13 +1,13 @@
-# Week 2 – Node + NPM + Git + GitHub: Assignments
+# Week 2 – Node, npm, Git, GitHub, DateTime: Assignments
 
-## Show – Node and NPM basics
+## Show – Node and npm basics
 
 * Show "Repl"-mode
 * Create a .js file that prints your name in the terminal. Explain different
   print outputs.
-* Init NPM. Explain package.json and lock files.
+* Init npm. Explain package.json and lock files.
 * Install chalk (https://www.npmjs.com/package/chalk). Add some fancy coloring.
-* Create a function that can print out your version of Git, NPM och Node.
+* Create a function that can print out your version of Git, npm och Node.
 * Create a function that creates a stuff.md file with the above print outs.
 * Add an argument parser.
 
@@ -35,11 +35,12 @@
 
 ## Assignment – recreate and improve
 
-* Recreate the code/steps of the presentation (Node and Npm).
-* Add a date library of your choice (from npm, checkout
-  https://2022.stateofjs.com/en-US/other-tools/#date_management for examples of
-  date libraries, or look at the temporal video below). Make sure it runs in
-  Node and not just the browser (either by looking at the docs or by testing).
+* Recreate the code/steps of the presentation (Node and npm).
+* Add a date library of your choice from npm
+    * Examples at https://2022.stateofjs.com/en-US/other-tools/#date_management
+    * Note that Moment.js is deprecated. Still good and often used, but the
+      newer libraries are often a better choice.
+    * or use the temporal api polyfill, see video below
 * Add a function that writes current date and time to your file when you run
   your script.
 * Add a function that writes how long it was since you started this course.
@@ -49,8 +50,8 @@
   understand.
 * Add a function that also creates a runnable html-file (stuff.html) in addition
   to the stuff.md file. Include relevant markup and styling.
-* Create a public GitHub repo and "upload" you code. Make sure to setup you
-  GitHub account with an ssh-key.
+* Create a public GitHub repo and "upload" you code. For your own convenience,
+  make sure to setup you GitHub account with an ssh-key.
 
 Watch:
 * Optional: Learn Temporal API In 17 Minutes https://www.youtube.com/watch?v=oOK3UzLJ_Cs
