@@ -7,11 +7,11 @@
 * tailwind.css
 * Include a custom font
 
-## Assignment: Build first personl project
+## Assignment: Build first personal project
 
 * Create new Github Repo
 * Build you idea from week 1.
-* Make sure your design
+* Make sure your choice of design style is well reflected.
 * Publish site
 * Make sure to commit and push latest to GitHub repo.
 

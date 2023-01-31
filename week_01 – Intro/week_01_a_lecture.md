@@ -99,7 +99,8 @@ Online participants; write in the chat.
 
 ### Examples of React usage.
 
-* Wappalyzer
+Wappalyzer
+
 * https://www.facebook.com/
 * https://www.instagram.com/
 * https://www.netflix.com/
@@ -161,6 +162,7 @@ developers use when coding.
 * What else will you need in addition to this course?
   * more practice
   * typescript
+  * testing
   * (React Native)
   * (Docker)
   * (old style of writing react)

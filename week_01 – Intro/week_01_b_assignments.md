@@ -15,7 +15,7 @@ build on it further in the coming weeks.
 * Add another article with the same setup as above.
 * Add a button that switches between the articles.
 
-Show how the documentation, stack overflow, GPT, and copilot can help
+Show how the documentation, stack overflow, GPT, and copilot can help.
 
 ## Assignment – recreate and improve
 
