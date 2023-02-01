@@ -21,9 +21,9 @@ npm and vite right away.
 * Talk about state.
 * Show how the documentation, stack overflow, GPT, and copilot can help.
 * Talk about updating state.
-* Talk about updating state with objects.
+* Talk about updating state with objects. (if we have time, we did not)
 
-* Implement a nicer design (if we have time)
+* Implement a nicer design (if we have time, we did not)
 
 ## Assignment – recreate and improve
 
@@ -50,8 +50,8 @@ npm and vite right away.
 * Make sure you commit and push your work to a public github repo, and when you
   are done with all the assignments, add a link in the assignment for week 1.
 
-You should be ready to show your result/progress during our next lecture. ~~But you
-don't need to be finished until our first lecture next week.~~
+You should be ready to show your result/progress during our first lecture next
+week.
 
 ### Watch:
 
