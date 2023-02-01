@@ -3,9 +3,8 @@
 ## Show – Node and npm basics
 
 * Show "Repl"-mode.
-* Create a .js file that prints your name in the terminal. Explain different
-  print outputs.
-* Init npm. Explain package.json and lock files.
+* Create a .js file that prints your name in the terminal.
+* Init npm. Explain package.json, lock files and npm run.
 * Install chalk (https://www.npmjs.com/package/chalk). Add some fancy coloring.
 * Create a function that can print out your version of Git, npm och Node.
 * Create a function that creates a stuff.md file with the above print outs.
@@ -28,7 +27,8 @@
 * clone
 * pull requests (save until another lecture)
 
-Watch:
+### Watch:
+
 **Optional: Git It? How to use Git and Github**
 
 https://www.youtube.com/watch?v=HkdAHXoRtos
@@ -40,12 +40,15 @@ branches, pull requests, stashing
 
 https://www.youtube.com/watch?v=ebZzVAZC7tc
 
-In the video he talks about 2 modes, there are more modes.
+For when you accidentally forget `-m` in `github commit -m 'add new commit'`.
+
+(In the video he talks about 2 modes, there are more modes, but those modes are
+only needed if you want to get really good about using vi/vim.)
 
 ## Show – Date and Time (if we have time)
 
 * Working with dates and time.
-* Dealing with dates is a major problem. List problems.
+* Dealing with dates is a major problem. (List some problems.)
 * How to avoid many of the problems. Tests, tests and a declarative approach.
 
 ## Show – Unit Testing

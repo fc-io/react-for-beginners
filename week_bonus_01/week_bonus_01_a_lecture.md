@@ -5,6 +5,7 @@ For when we have a lot of extra time.
 ## My setup.
 
 * ZSH/.dotfiles
+* aliases (requested)
 * Sublime
 * Visual Studio Code
 * VMs
