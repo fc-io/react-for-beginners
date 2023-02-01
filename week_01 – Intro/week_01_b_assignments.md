@@ -9,11 +9,11 @@ online boilerplate at https://codesandbox.io/s/react-new. You can create an
 account if you like. The important part is that you save you work as we will
 build on it further in the coming weeks.~~
 
-* Set up node, npm and vite.
+* NEW: Set up node, npm and vite.
 
 * Build a basic page layout,
 * Add an article, with at least one heading, and some content.
-* Add an image.
+  * Add an image to the article.
 * Add another article with the same setup as above.
 * Add a button that switches between the articles.
 
@@ -27,7 +27,7 @@ build on it further in the coming weeks.~~
 ## Assignment – recreate and improve
 
 * Recreate the code/steps of the presentation
-* ...but use content, styling and shapes of your own choosing
+* ...but use content, styling and images of your own choosing
 * The 1st article should be about you what you've done so far when it comes to
   programming and what you would like to explore further on. A couple of
   sentences is enough.
@@ -45,15 +45,28 @@ build on it further in the coming weeks.~~
 * BONUS: Add a button that shows all articles at the same time.
 * BONUS: update the title depending on what article is shown. You can watch the
   video below for an example if we don't go through this during class
-* Make sure you save your work and include a link to your public codesandbox in
-  the assingment hand in.
+* Make sure you commit and push your work to a public github repo, and when you
+  are done with all the assignments, add a link in the assignment for week 1.
 
-You should be ready to show your result/progress during our next lecture. But you
-don't need to be finished until our first lecture next week.
+You should be ready to show your result/progress during our next lecture. ~~But you
+don't need to be finished until our first lecture next week.~~
 
 Watch:
-* How to use useState/useEffect – https://www.youtube.com/watch?v=QQYeipc_cik
-* Optional: 10 React Hooks Explained https://www.youtube.com/watch?v=TNhaISOUy6Q
+
+**How to use useState/useEffect**
+
+https://www.youtube.com/watch?v=QQYeipc_cik
+
+We will talk more about useEffect in another lecture but nice if you watch that part
+too.
+
+**Learn React #5: Maps and Loops in JSX**
+
+https://www.youtube.com/watch?v=5llXA0RTYIU
+
+**Optional: 10 React Hooks Explained https://www.youtube.com/watch?v=TNhaISOUy6Q**
+
+Might be better to watch this later on. But nice to watch it during the course.
 
 ## Assignment – Idea for First Personal React Project
 
@@ -73,8 +86,10 @@ Examples:
 
 (Calculator and TODO-app too large of a project at this stage.)
 
-Your idea should later on be added to a github repo (we will go about how to use
-git and github next week).
+~~Your idea should later on be added to a github repo (we will go about how to use
+git and github next week).~~
+
+Your idea should later be added to your project and the github repo.
 
 ## Assignment – Styling of First Personal React Project
 
@@ -83,8 +98,10 @@ something from https://dribbble.com/tags/free. Typeface, colors and icons would
 be something for you to modify if you like, but other that that your app should
 match the design you pick very closely.
 
-Also to be included in you github repo later on (for now you can save a
-link for yourself).
+~~Also to be included in you github repo later on (for now you can save a
+link for yourself).~~
+
+Your idea should later be added to your project and the github repo.
 
 ## For next week
 
