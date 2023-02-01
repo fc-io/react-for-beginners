@@ -60,6 +60,10 @@ https://www.youtube.com/watch?v=QQYeipc_cik
 We will talk more about useEffect in another lecture but nice if you watch that part
 too.
 
+**Learn React #3: Props, Destructuring, and Spreading**
+
+https://www.youtube.com/watch?v=SbwtUHxRej8&list=PLQg6GaokU5CyvExiaMgXP_BS5WWNBfZJN&index=3
+
 **Learn React #5: Maps and Loops in JSX**
 
 https://www.youtube.com/watch?v=5llXA0RTYIU
