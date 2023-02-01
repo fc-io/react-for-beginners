@@ -10,6 +10,7 @@
 * Create a function that can print out your version of Git, npm och Node.
 * Create a function that creates a stuff.md file with the above print outs.
 * Add an argument parser.
+* Do something with the argument parser.
 
 ## Show – Git and GitHub (they are maybe familiar with git, but if needed)
 
