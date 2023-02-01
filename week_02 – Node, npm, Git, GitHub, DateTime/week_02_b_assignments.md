@@ -29,7 +29,7 @@
 * pull requests (save until another lecture)
 
 Watch:
-**Optional: Git It? How to use Git and Github*
+**Optional: Git It? How to use Git and Github**
 
 https://www.youtube.com/watch?v=HkdAHXoRtos
 
