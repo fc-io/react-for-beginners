@@ -61,8 +61,8 @@ week.**
 
 https://www.youtube.com/watch?v=QQYeipc_cik
 
-We will talk more about useEffect in another lecture but nice if you watch that part
-too.
+We will talk more about useEffect in another lecture but nice if you watch that
+part too.
 
 **Learn React #3: Props, Destructuring, and Spreading**
 
