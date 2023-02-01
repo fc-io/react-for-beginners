@@ -68,7 +68,9 @@ https://www.youtube.com/watch?v=SbwtUHxRej8&list=PLQg6GaokU5CyvExiaMgXP_BS5WWNBf
 
 https://www.youtube.com/watch?v=5llXA0RTYIU
 
-**Optional: 10 React Hooks Explained https://www.youtube.com/watch?v=TNhaISOUy6Q**
+**Optional: 10 React Hooks Explained**
+
+https://www.youtube.com/watch?v=TNhaISOUy6Q
 
 Might be better to watch this later on. But nice to watch it during the course.
 
