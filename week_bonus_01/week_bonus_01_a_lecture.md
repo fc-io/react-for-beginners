@@ -26,12 +26,14 @@ For when we have a lot of extra time.
 
 ## Accessibility
 
+* What it is
+* Why it is important
 * ARIA
 * Tools
 
 ## More about functional programming
 
-## Other languages that can be interesting to learn
+## Other languages that can be interesting to learn as a fron-end developer
 
 Which ones? Would help you in general, or as a web programmer?
 
@@ -63,3 +65,8 @@ Which ones? Would help you in general, or as a web programmer?
 * Other databases? Redis, graph...
 * WebAssembly
 * 3D graphics/WebGL/WebGPU/Three.js
+
+## Typical job interview scenarios
+
+* Questions that are usually asked
+* How to prepare.

@@ -7,7 +7,7 @@
 * Init npm. Explain package.json, lock files and npm run.
 * Install chalk (https://www.npmjs.com/package/chalk). Add some fancy coloring.
 * Create a function that can print out your version of Git, npm och Node.
-* Create a function that creates a stuff.md file with the above print outs.
+* Create a function that creates a index.md file with the above print outs.
 * Add an argument parser.
 * Do something with the argument parser.
 
@@ -26,6 +26,7 @@
 * status
 * clone
 * pull requests (save until another lecture)
+* show how to diff between commits. Use react-for-beginners as an example.
 
 ### Watch:
 
@@ -64,27 +65,21 @@ only needed if you want to get really good about using vi/vim.)
 * Add a function that writes current date and time to your file when you run
   your script.
 * Add a function that writes how long it was since you started this course.
-* Allow for sending in a date as an argument and writes the date to file as well
-  as if the argument date was before, after or on the current date.
+* Allow for sending in a date as an argument
+    - Write the argument-date to your file
+    - Add a function that figures out if date sent in as a argument is before or
+      after the date when you run the file.
 * Make sure all the dates and times has a nice formatting that "everyone" can
   understand.
-* Add a function that also creates a runnable html-file (stuff.html) in addition
-  to the stuff.md file. Include relevant markup and styling.
-* Create a public GitHub repo and "upload" you code. For your own convenience,
-  make sure to setup you GitHub account with an ssh-key.
+* Add a function that also creates a plain, runnable html-file (index.html) in
+  addition to the index.md file. Include relevant markup and styling.
+* Create a public GitHub repo (if you haven't already, or a private repo but by
+  also inviting me as a contributor) and "upload" you code. For your own
+  convenience, make sure to setup you GitHub account with an ssh-key if you
+  haven't already done so.
 
 Watch:
 * Optional: Learn Temporal API In 17 Minutes https://www.youtube.com/watch?v=oOK3UzLJ_Cs
-
-## Assignment – First idea
-
-* Add a mention of the idea, from last week, that you've decided on, to your
-  github project's Readme.md.
-
-## Assignment – Find a style
-
-* Add the style that you've decided on to your github project. Add both a link
-  and an image (for you to figure out how) to your Readme.md file.
 
 ## For next week
 

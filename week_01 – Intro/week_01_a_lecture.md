@@ -51,7 +51,7 @@ Online participants; write in the chat.
 - [ ] NPM?
 - [x] Git?
 - [x] GitHub?
-- [ ] Browser devloper tools Elements/Console/Network/Application?
+- [ ] Browser devloper tools: Elements/Console/Network/Application?
 - [x] Sketch/Figma/Photoshop?
 
 ## Main topics of the course

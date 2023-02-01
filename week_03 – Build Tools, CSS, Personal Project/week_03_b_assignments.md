@@ -12,14 +12,16 @@
 
 * Create new Github Repo
 * Build you idea from week 1 (or make a last minut change of idea. If you change
-  your idea make a note in your projects README.md about what your new idea is
+  your idea make a note in your project's README.md about what your new idea is
   about and why you felt your new idea was a better choice).
 * Make sure your choice of design style is well reflected on your site.
-* Build your site
-* Publish site you can use github pages or one of the other ways of publishing
-  that I'll show.
+* Give credit towards the style you picked. Somewhere on your site provide a
+  mention and a link to where you found the style.
+* Use the build function in vite to make your site ready for production.
+* Publish your site. You can use github pages or one of the other ways of
+  publishing that I'll show this week (Netlify or Vercel).
 * Make sure to commit and push latest to GitHub repo.
-* BONUS: Use tailwind for CSS.
+* BONUS: Use tailwind.css for CSS.
 
 ### For next week
 

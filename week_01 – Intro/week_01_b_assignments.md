@@ -10,8 +10,12 @@ account if you like. The important part is that you save you work as we will
 build on it further in the coming weeks.~~ Instead we get started with node,
 npm and vite right away.
 
-* NEW: Set up node, npm and vite.
+* NEW: To follow along with the coding (you don't have to), make sure:
+    - Git is installed and updated
+    - You've added an ssh-key to your computer and GitHub.
+    - Node is installed and the latest version
 
+* NEW: Set up node, npm and vite.
 * Build a basic page layout,
 * Add an article, with at least one heading, and some content.
   * Add an image to the article.
@@ -49,7 +53,7 @@ npm and vite right away.
   during class.
 * Make sure you commit and push your work to a public github repo (or a private
   repo but by also inviting me as a contributor).
-* When you are done with all the assignments, add a link to the github repo in
+* When you are done with all the assignments, add a link to your GitHub repo in
   the assignment for week 1. (You don't need to create a GitHub Pages.)
 
 **You should be ready to show your result/progress during our first lecture next
