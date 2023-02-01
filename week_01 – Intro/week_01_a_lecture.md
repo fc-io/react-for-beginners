@@ -39,6 +39,7 @@ Online participants; write in the chat.
 - [ ] localstorage?
 - [ ] terneries/Nullish coalescing operator/Nullish coalescing assignment/Logical OR assignment?
 - [x] var/const/let?
+- [ ] destructuring?
 - [ ] unit testing?
 - [ ] eslint?
 - [ ] prettier?

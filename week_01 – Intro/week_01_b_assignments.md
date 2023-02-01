@@ -4,14 +4,16 @@
 
 ## Show – React basics
 
-In order to quickly get familiar with React, we shall, for this week, use an
+~~In order to quickly get familiar with React, we shall, for this week, use an
 online boilerplate at https://codesandbox.io/s/react-new. You can create an
 account if you like. The important part is that you save you work as we will
-build on it further in the coming weeks.
+build on it further in the coming weeks.~~
+
+* Set up node, npm and vite.
 
 * Build a basic page layout,
 * Add an article, with at least one heading, and some content.
-* Add some kind of geometric shape as a substitute for an image.
+* Add an image.
 * Add another article with the same setup as above.
 * Add a button that switches between the articles.
 
@@ -19,6 +21,8 @@ build on it further in the coming weeks.
 * Show how the documentation, stack overflow, GPT, and copilot can help.
 * Talk about updating state.
 * Talk about updating state with objects.
+
+* Implement a nicer design
 
 ## Assignment – recreate and improve
 

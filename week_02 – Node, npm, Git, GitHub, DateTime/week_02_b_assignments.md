@@ -48,6 +48,8 @@ In the video he talks about 2 modes, there are more modes.
 * Dealing with dates is a major problem. List problems.
 * How to avoid many of the problems. Tests, tests and a declarative approach.
 
+## Show – Unit Testing
+
 ## Assignment – recreate and improve
 
 * Recreate the code/steps of the presentation (Node and npm).
