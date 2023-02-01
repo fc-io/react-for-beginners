@@ -47,11 +47,13 @@ npm and vite right away.
 * BONUS: update the title depending on what article is shown. You can watch the
   useState/useEffect video below for an example if we don't go through this
   during class.
-* Make sure you commit and push your work to a public github repo, and when you
-  are done with all the assignments, add a link in the assignment for week 1.
+* Make sure you commit and push your work to a public github repo (or a private
+  repo but by also inviting me as a contributor).
+* When you are done with all the assignments, add a link to the github repo in
+  the assignment for week 1. (You don't need to create a GitHub Pages.)
 
-You should be ready to show your result/progress during our first lecture next
-week.
+**You should be ready to show your result/progress during our first lecture next
+week.**
 
 ### Watch:
 
