@@ -7,7 +7,8 @@
 ~~In order to quickly get familiar with React, we shall, for this week, use an
 online boilerplate at https://codesandbox.io/s/react-new. You can create an
 account if you like. The important part is that you save you work as we will
-build on it further in the coming weeks.~~
+build on it further in the coming weeks.~~ Instead we get started with node,
+npm and vite right away.
 
 * NEW: Set up node, npm and vite.
 
@@ -22,7 +23,7 @@ build on it further in the coming weeks.~~
 * Talk about updating state.
 * Talk about updating state with objects.
 
-* Implement a nicer design
+* Implement a nicer design (if we have time)
 
 ## Assignment – recreate and improve
 
@@ -44,7 +45,8 @@ build on it further in the coming weeks.~~
   shown.)
 * BONUS: Add a button that shows all articles at the same time.
 * BONUS: update the title depending on what article is shown. You can watch the
-  video below for an example if we don't go through this during class
+  useState/useEffect video below for an example if we don't go through this
+  during class.
 * Make sure you commit and push your work to a public github repo, and when you
   are done with all the assignments, add a link in the assignment for week 1.
 
@@ -68,6 +70,14 @@ https://www.youtube.com/watch?v=SbwtUHxRej8&list=PLQg6GaokU5CyvExiaMgXP_BS5WWNBf
 
 https://www.youtube.com/watch?v=5llXA0RTYIU
 
+**Ternary Operator in React and JSX**
+
+https://youtube.com/watch?v=fAUkKh-WfLM&t=625
+
+Nice talk about how ternaries can work with react. Starts from 10:25. The other
+parts of the video are also nice but talks about other things than the things
+we've already talked about.
+
 **Optional: 10 React Hooks Explained**
 
 https://www.youtube.com/watch?v=TNhaISOUy6Q
@@ -80,7 +90,8 @@ Start thinking about a super simple react site that you would like to make
 (for week 3). Either a copy of something that already exists or something new
 that you would like to make. Later during the course there will be
 opportunities to make more advanced programs but right now we want something
-super simple and focus mostly on styling/CSS.
+super simple and focus mostly on styling/CSS. It's all right to change the idea
+later on.
 
 Examples:
 * Calculate letters/characters/words in a text.
@@ -92,22 +103,22 @@ Examples:
 
 (Calculator and TODO-app too large of a project at this stage.)
 
-~~Your idea should later on be added to a github repo (we will go about how to use
-git and github next week).~~
+~~Your idea should later on be added to a github repo (we will go about how to
+use git and github next week).~~
 
-Your idea should later be added to your project and the github repo.
+Your idea should be added to your github repo for Week 1/Assignment 1.
 
 ## Assignment – Styling of First Personal React Project
 
 Find a visual style to use for your "First idea"-app. A suggestion is to pick
-something from https://dribbble.com/tags/free. Typeface, colors and icons would
+something from https://dribbble.com/tags/free. Typeface, colors and icons ~~would~~ can
 be something for you to modify if you like, but other that that your app should
 match the design you pick very closely.
 
 ~~Also to be included in you github repo later on (for now you can save a
 link for yourself).~~
 
-Your idea should later be added to your project and the github repo.
+Your idea should be added to your github repo for Week 1/Assignment 1.
 
 ## For next week
 
