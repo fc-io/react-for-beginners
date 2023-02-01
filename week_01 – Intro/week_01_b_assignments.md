@@ -15,25 +15,30 @@ build on it further in the coming weeks.
 * Add another article with the same setup as above.
 * Add a button that switches between the articles.
 
-Show how the documentation, stack overflow, GPT, and copilot can help.
+* Talk about state.
+* Show how the documentation, stack overflow, GPT, and copilot can help.
+* Talk about updating state.
+* Talk about updating state with objects.
 
 ## Assignment – recreate and improve
 
 * Recreate the code/steps of the presentation
 * ...but use content, styling and shapes of your own choosing
 * The 1st article should be about you what you've done so far when it comes to
-  programming and what you would like to explore further on.
+  programming and what you would like to explore further on. A couple of
+  sentences is enough.
 * The 2nd article should be about your idea for you first personal project
   (see below). The name of the idea/project and a motivation to why you choose
-  that idea.
+  that idea. A couple of sentences is enough.
 * An additional article, the 3rd article, should be about the design style you
   wish to apply to your first personal project (see below for instructions).
-  Include a motivation as to why you picked that style.
+  Include a motivation as to why you picked that style. A couple of sentences is
+  enough.
 * Add buttons that switch between all three articles (like pagination).
 * Make the button reflect which article is shown. (I.e. the button for a given
   article has another styling than the other buttons when the active article is
   shown.)
-* BONUS: Add button that shows all articles at the same time.
+* BONUS: Add a button that shows all articles at the same time.
 * BONUS: update the title depending on what article is shown. You can watch the
   video below for an example if we don't go through this during class
 * Make sure you save your work and include a link to your public codesandbox in
@@ -69,10 +74,10 @@ git and github next week).
 
 ## Assignment – Styling of First Personal React Project
 
-Find a visual style to use for your "First idea"-app. A suggestion is to pick something from
-https://dribbble.com/tags/free. Typeface, colors and icons would be something for you to
-modify if you like, but other that that your app should match the design you pick very
-closely.
+Find a visual style to use for your "First idea"-app. A suggestion is to pick
+something from https://dribbble.com/tags/free. Typeface, colors and icons would
+be something for you to modify if you like, but other that that your app should
+match the design you pick very closely.
 
 Also to be included in you github repo later on (for now you can save a
 link for yourself).

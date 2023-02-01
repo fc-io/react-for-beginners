@@ -21,3 +21,4 @@ Get a head start by watching the videos below. Or save them for next week, up to
 you.
 
 * Learn React Query In 50 Minutes  https://www.youtube.com/watch?v=r8Dg0KVnfMA
+* Top 6 React Hook Mistakes Beginners Make (from 2:57, first example is not great) https://youtube.com/watch?v=GGo3MVBFr1A&t=177

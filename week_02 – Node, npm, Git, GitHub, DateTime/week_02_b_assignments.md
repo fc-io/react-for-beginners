@@ -2,7 +2,7 @@
 
 ## Show – Node and npm basics
 
-* Show "Repl"-mode
+* Show "Repl"-mode.
 * Create a .js file that prints your name in the terminal. Explain different
   print outputs.
 * Init npm. Explain package.json and lock files.
@@ -27,9 +27,23 @@
 * clone
 * pull requests (save until another lecture)
 
+Watch:
+**Optional: Git It? How to use Git and Github*
+
+https://www.youtube.com/watch?v=HkdAHXoRtos
+
+Another good video. When you know the basics and want to know more about
+branches, pull requests, stashing
+
+**Optional: Git Tip: Commiting with Vim**
+
+https://www.youtube.com/watch?v=ebZzVAZC7tc
+
+In the video he talks about 2 modes, there are more modes.
+
 ## Show – Date and Time (if we have time)
 
-* working with dates and time
+* Working with dates and time.
 * Dealing with dates is a major problem. List problems.
 * How to avoid many of the problems. Tests, tests and a declarative approach.
 

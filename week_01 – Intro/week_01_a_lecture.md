@@ -23,21 +23,22 @@ Online participants; write in the chat.
 
 **HTML/CSS**
 
-- [ ] absolute/relative positioning?
-- [ ] flexbox?
-- [ ] grids?
-- [ ] forms?
+- [x] absolute/relative positioning?
+- [x] flexbox?
+- [x] grids?
+- [x] forms?
 
 **JavaScript**
 
 - [ ] what methods?
-  - [ ] loops? forEach, Map, reduce?
-  - [ ] fetch?
-  - [ ] promises?
+  - [x] for/while
+  - [ ] forEach, Map, reduce?
+  - [x] fetch?
+  - [x] promises?
   - [ ] async/await?
 - [ ] localstorage?
 - [ ] terneries/Nullish coalescing operator/Nullish coalescing assignment/Logical OR assignment?
-- [ ] var/const/let?
+- [x] var/const/let?
 - [ ] unit testing?
 - [ ] eslint?
 - [ ] prettier?
@@ -47,10 +48,10 @@ Online participants; write in the chat.
 - [ ] Node?
 - [ ] React?
 - [ ] NPM?
-- [ ] Git?
-- [ ] GitHub?
+- [x] Git?
+- [x] GitHub?
 - [ ] Browser devloper tools Elements/Console/Network/Application?
-- [ ] Sketch/Figma/Photoshop?
+- [x] Sketch/Figma/Photoshop?
 
 ## Main topics of the course
 
@@ -133,9 +134,9 @@ Briefly. Bundled with node.
 
 ### Operating systems?
 
-- [ ] MacOS
+- [x] MacOS
 - [ ] Linux
-- [ ] Windows
+- [x] Windows
 - [ ] Other?
 
 ## Importance of being you own teacher
@@ -201,3 +202,8 @@ developers use when coding.
   will explain important concepts in more depth.
 * We'll begin most lectures by one (or a few) of you showing your progress or
   results.
+
+## Notes
+
+* took about 2h 30min with 15 minute breaks every hour
+* room for about 30 min more content next time
