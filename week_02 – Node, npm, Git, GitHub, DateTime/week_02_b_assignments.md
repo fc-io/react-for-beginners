@@ -92,5 +92,6 @@ Watch:
 * Build tools – Vite https://www.youtube.com/watch?v=KCrXgy8qtjM
 * Should You Use Tailwind CSS?  https://www.youtube.com/watch?v=hdGsFpZ0J2E
 * Tailwind CSS is the worst https://www.youtube.com/watch?v=lHZwlzOUOZ4
+* Optional: Ultimate Tailwind CSS Tutorial https://www.youtube.com/watch?v=pfaSUYaSgRo
 * Optional: Build tools – Turbopack https://www.youtube.com/watch?v=6ZwnBI4Rb1w
 * Optional: I didn't realize THIS about Tailwind... https://www.youtube.com/watch?v=ZuLn42merAg

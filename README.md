@@ -4,7 +4,7 @@
 
 The content here is mostly thought of as providing an outline to a lecture
 series. Each lecture will delve deeper into each topic outlined in this
-repository. The repository is meant as resource both for the teacher and the
+repository. The repository is meant as a resource both for the teacher and the
 students.
 
 The content presented within assumes some familiarity with HTML, CSS and
