@@ -136,7 +136,7 @@ Briefly. Bundled with node.
 ### Operating systems?
 
 - [x] MacOS
-- [ ] Linux
+- [x] Linux
 - [x] Windows
 - [ ] Other?
 
