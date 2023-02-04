@@ -35,7 +35,8 @@ Online participants; write in the chat.
   - [ ] forEach, Map, reduce?
   - [x] fetch?
   - [x] promises?
-  - [ ] async/await?
+- [ ] async/await?
+- [ ] import(s)
 - [ ] localstorage?
 - [ ] terneries/Nullish coalescing operator/Nullish coalescing assignment/Logical OR assignment?
 - [x] var/const/let?
