@@ -4,6 +4,9 @@
 
 ## Porfolio
 
+### Watch
+
+### Assignment – Portfolio (again, yey!)
 * Build a (new-isch) Porfolio site. You can reuse a lot of code from the old one
   you made in the previous course as well as the design you used last time. Or
   you can make a new simplier one.
@@ -18,7 +21,7 @@
     * Either a snippet or a scaled down image of a site.
     * For week 2, the image can be of how it looks in the terminal when you run
       your program or how the generated html page looks like.
-* Commit a and push to a new github repo.
+* Commit and push to a new github repo.
 * Publish your site.
 * Make sure to provide a link to the repo and the site in the assignment hand-in
   in teams.
@@ -31,7 +34,8 @@
 
 ...
 
-*  Optional: Astro just Launched....  https://www.youtube.com/watch?v=gxBkghlglTg
+* Next.js 13 - The Basics ttps://www.youtube.com/watch?v=__mSgDEOyv8&list=WL&index=6
+* Optional: Astro just Launched....  https://www.youtube.com/watch?v=gxBkghlglTg
 
 
 
