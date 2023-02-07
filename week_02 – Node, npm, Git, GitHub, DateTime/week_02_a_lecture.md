@@ -11,6 +11,8 @@
 - [ ] onClick
 - [ ] useState
 - [ ] Something else?
+- [ ] Lack of time
+- [ ] Things happening outside of school
 
 ## The Assignments
 
