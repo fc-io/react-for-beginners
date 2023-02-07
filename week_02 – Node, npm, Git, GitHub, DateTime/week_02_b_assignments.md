@@ -79,7 +79,7 @@ only needed if you want to get really good about using vi/vim.)
 * Add a function that also creates a plain, runnable html-file (index.html) in
   addition to the index.md file. Include relevant markup and styling.
 * Create a public GitHub repo (if you haven't already, or a private repo but by
-  also inviting me as a contributor) and "upload" you code. For your own
+  also inviting me as a contributor) and "upload" your code. For your own
   convenience, make sure to setup you GitHub account with an ssh-key if you
   haven't already done so.
 * BONUS: Add a unit test for some part of the assignment (except for the part I
