@@ -14,6 +14,8 @@
 * Build you idea from week 1 (or make a last minut change of idea. If you change
   your idea make a note in your project's README.md about what your new idea is
   about and why you felt your new idea was a better choice).
+* Make sure there is some kind of interactivity on your site. I.e something that
+  would require JavaScript on a regular html, css, js-site.
 * Make sure your choice of design style is well reflected on your site.
 * Give credit towards the style you picked. Somewhere on your site provide a
   mention and a link to where you found the style.

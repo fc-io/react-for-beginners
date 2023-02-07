@@ -4,12 +4,13 @@
 
 ## Porfolio
 
-### Watch
-
 ### Assignment – Portfolio (again, yey!)
-* Build a (new-isch) Porfolio site. You can reuse a lot of code from the old one
-  you made in the previous course as well as the design you used last time. Or
-  you can make a new simplier one.
+
+* Build a (new-isch) Porfolio site using Next. You can reuse a lot of code from
+  the old one you made in the previous course as well as the design you used
+  last time. Or you can make a new simplier one.
+* Ther should, at least, be a porfolio page and an about page with different
+  routes.
 * Link to all the sites and github projects you've made in this course so far
   * From Week 01: Link to the GitHub repo for Week 1.
   * From Week 02: Link to the GitHub repo for Week 2.
@@ -32,7 +33,8 @@
 
 ### Watch
 
-* Next.js 13 - The Basics https://www.youtube.com/watch?v=__mSgDEOyv8&list=WL&index=6
+* Next.js 13 - How to use App folder & Layouts https://www.youtube.com/watch?v=xXwxEudjiAY
+* Optional: Next.js 13 - The Basics https://www.youtube.com/watch?v=__mSgDEOyv8&list=WL&index=6
 * Optional: Remix JS Crash Course https://www.youtube.com/watch?v=3CAqFdVlbUA
 * Optional: Astro just Launched....  https://www.youtube.com/watch?v=gxBkghlglTg
 
