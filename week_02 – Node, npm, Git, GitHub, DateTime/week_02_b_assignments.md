@@ -49,12 +49,15 @@ only needed if you want to get really good about using vi/vim.)
 ## Show – Date and Time (if we have time)
 
 * Working with dates and time.
+    - UTC (GMT)
+    - Local time
 * Dealing with dates is a major problem. (List some problems.)
 * How to avoid many of the problems. Tests, tests and a declarative approach.
 
 ## Show – Unit Testing
 
-Refactor into testable code.
+* Talk about different forms of testing.
+* Refactor into testable code.
 
 ## Assignment – recreate and improve
 
@@ -79,6 +82,8 @@ Refactor into testable code.
   also inviting me as a contributor) and "upload" you code. For your own
   convenience, make sure to setup you GitHub account with an ssh-key if you
   haven't already done so.
+* BONUS: Add a unit test for some part of the assignment (except for the part I
+  show during class).
 
 Watch:
 * Optional: Learn Temporal API In 17 Minutes https://www.youtube.com/watch?v=oOK3UzLJ_Cs
