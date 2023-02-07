@@ -2,15 +2,15 @@
 
 ## Hardest part of last week to understand
 
-– [ ] Everything
-– [ ] The Assignments
-– [ ] Destructuring
-– [ ] Props
-– [ ] Maps
-– [ ] What can I do in React/JSX
-– [ ] onClick
-– [ ] useState
-– [ ] Something else?
+- [ ] Everything
+- [ ] The Assignments
+- [ ] Destructuring
+- [ ] Props
+- [ ] Maps
+- [ ] What can I do in React/JSX
+- [ ] onClick
+- [ ] useState
+- [ ] Something else?
 
 ## The Assignments
 
