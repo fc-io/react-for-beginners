@@ -32,9 +32,8 @@
 
 ### Watch
 
-...
-
-* Next.js 13 - The Basics ttps://www.youtube.com/watch?v=__mSgDEOyv8&list=WL&index=6
+* Next.js 13 - The Basics https://www.youtube.com/watch?v=__mSgDEOyv8&list=WL&index=6
+* Optional: Remix JS Crash Course https://www.youtube.com/watch?v=3CAqFdVlbUA
 * Optional: Astro just Launched....  https://www.youtube.com/watch?v=gxBkghlglTg
 
 

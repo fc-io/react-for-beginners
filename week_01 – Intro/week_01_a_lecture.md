@@ -209,3 +209,5 @@ developers use when coding.
 
 * took about 2h 30min with 15 minute breaks every hour
 * room for about 30 min more content next time
+* or talk a bit less and introduce an assignment (a simplier verison of the
+  first assignment without useState)

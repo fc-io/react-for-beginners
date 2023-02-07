@@ -25,7 +25,7 @@
 * diff
 * status
 * clone
-* pull requests (save until another lecture)
+* github: issues, pull requests (save until another lecture)
 * show how to diff between commits. Use react-for-beginners as an example.
 
 ### Watch:
