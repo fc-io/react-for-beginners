@@ -54,6 +54,8 @@ only needed if you want to get really good about using vi/vim.)
 
 ## Show – Unit Testing
 
+Refactor into testable code.
+
 ## Assignment – recreate and improve
 
 * Recreate the code/steps of the presentation (Node and npm).
