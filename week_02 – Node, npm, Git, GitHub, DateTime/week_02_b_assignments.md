@@ -3,7 +3,7 @@
 ## Show – Node and npm basics
 
 * Show "Repl"-mode.
-* Create a .js file that prints your name in the terminal.
+* Create an, index.js file that prints your name in the terminal.
 * Init npm. Explain package.json, lock files and npm run.
 * Install chalk (https://www.npmjs.com/package/chalk). Add some fancy coloring.
 * Create a function that can print out your version of Git, npm och Node.

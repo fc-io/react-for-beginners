@@ -11,7 +11,7 @@
 - [ ] onClick
 - [ ] useState
 - [ ] Something else?
-- [ ] Lack of time
+- [x] Lack of time
 - [ ] Things happening outside of school
 
 ## The Assignments
@@ -20,20 +20,21 @@
 
 - [ ] Mostly easy
 - [ ] Bit of both
-- [ ] Hard
+- [x] Hard
 - [ ] Impossible
 
 ### What was hard about the assignments?
 
-- [ ] To understand the assignments
+- [x] To understand the assignments
 - [ ] To understand React
-- [ ] Something else?
+- [x] Something else?
 
 ### ChatGPT/Github copilot.
 
 #### How many have tried?
 
 - [ ] Few of you?
+- [x] Some of you?
 - [ ] Most of you?
 
 #### What did you use it for?
