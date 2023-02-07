@@ -97,8 +97,8 @@ Watch:
 
 * Module Bundlers Explained... – https://www.youtube.com/watch?v=5IG4UmULyoA
 * Build tools – Vite https://www.youtube.com/watch?v=KCrXgy8qtjM
-* Should You Use Tailwind CSS?  https://www.youtube.com/watch?v=hdGsFpZ0J2E
-* Tailwind CSS is the worst https://www.youtube.com/watch?v=lHZwlzOUOZ4
-* Optional: Ultimate Tailwind CSS Tutorial https://www.youtube.com/watch?v=pfaSUYaSgRo
-* Optional: Build tools – Turbopack https://www.youtube.com/watch?v=6ZwnBI4Rb1w
-* Optional: I didn't realize THIS about Tailwind... https://www.youtube.com/watch?v=ZuLn42merAg
+* Optional: Should You Use Tailwind CSS?  https://www.youtube.com/watch?v=hdGsFpZ0J2E
+* Optional: Tailwind CSS is the worst https://www.youtube.com/watch?v=lHZwlzOUOZ4
+* Extra Optional: Ultimate Tailwind CSS Tutorial https://www.youtube.com/watch?v=pfaSUYaSgRo
+* Extra Optional: Build tools – Turbopack https://www.youtube.com/watch?v=6ZwnBI4Rb1w
+* Extra Optional: I didn't realize THIS about Tailwind... https://www.youtube.com/watch?v=ZuLn42merAg
