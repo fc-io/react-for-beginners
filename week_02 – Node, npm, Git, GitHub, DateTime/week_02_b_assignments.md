@@ -83,7 +83,7 @@ only needed if you want to get really good about using vi/vim.)
   convenience, make sure to setup you GitHub account with an ssh-key if you
   haven't already done so.
 * ~~BONUS: Add a unit test for some part of the assignment (in addition to the example I
-  showed during class).~~
+  showed during class).~~ Me showing testing was a bit of a mess so we skip this part of the assignment :).
 
 Watch:
 * Optional: Learn Temporal API In 17 Minutes https://www.youtube.com/watch?v=oOK3UzLJ_Cs
