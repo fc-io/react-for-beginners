@@ -37,7 +37,7 @@ finish the assignment.
     * For week 2, the image can be of how it looks in the terminal when you run
       your program or how the generated HTML page looks like.
 * BONUS: Add a custom 404 page.
+* Publish your site. You can use GitHub pages, Netlify or Vercel.
 * Commit and push to a new GitHub repo.
-* Publish your site.
 * Make sure to provide a link to the repo and the site in the assignment hand-in
   in teams.
