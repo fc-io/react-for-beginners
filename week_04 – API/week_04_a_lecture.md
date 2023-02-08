@@ -30,6 +30,8 @@ for more examples https://2022.stateofjs.com/en-US/other-tools/#data_fetching
 
 ## Routing
 
+Briefly (more when we do SSR)
+
 * React router (Remix)
 * TanStack Router
 * (Next.js)
