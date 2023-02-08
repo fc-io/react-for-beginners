@@ -82,8 +82,8 @@ only needed if you want to get really good about using vi/vim.)
   also inviting me as a contributor) and "upload" your code. For your own
   convenience, make sure to setup you GitHub account with an ssh-key if you
   haven't already done so.
-* BONUS: Add a unit test for some part of the assignment (except for the part I
-  show during class).
+* BONUS: Add a unit test for some part of the assignment (in addition to the example I
+  showed during class).
 
 Watch:
 * Optional: Learn Temporal API In 17 Minutes https://www.youtube.com/watch?v=oOK3UzLJ_Cs
