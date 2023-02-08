@@ -28,12 +28,13 @@ https://www.youtube.com/watch?v=lVLz_ASqAio
 ## Assignment – recreate and improve
 
 * Create a new Git/GitHub repo.
-* Recreate the code/steps of the presentation
+* Recreate the code/steps from the presentation
 * ...but fetch data from another data source (than mine).
   * Examples of APIs that don't require authentication:
     https://github.com/cezary/simple-apis or find one of your own choosing.
   * API should provide data than can be used in a list or table (most likely
     provided from an array).
+  * If needed, modify the provided data so that it will fit with your design.
 * Find a new style from https://dribbble.com/tags/free
   * The design picked should have a list or table that you can copy for your
     data.
