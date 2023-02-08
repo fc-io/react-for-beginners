@@ -5,7 +5,7 @@
 * Setup Next.js
 * Implement routes/layouts/pages
 
-### Watch
+## Watch
 
 **Next.js 13 - How to use App folder & Layouts**
 
@@ -18,7 +18,7 @@ finish the assignment.
 * Extra Optional: Remix JS Crash Course https://www.youtube.com/watch?v=3CAqFdVlbUA
 * Extra Optional: Astro just Launched....  https://www.youtube.com/watch?v=gxBkghlglTg
 
-### Assignment – Portfolio (again, yey!)
+## Assignment – Portfolio (again, yey!)
 
 * Build a (new-isch) Portfolio site using Next. You can reuse a lot of code from
   the old one you made in the previous course as well as the design you used
@@ -36,7 +36,7 @@ finish the assignment.
     * Either a snippet or a scaled down image of a site.
     * For week 2, the image can be of how it looks in the terminal when you run
       your program or how the generated HTML page looks like.
-* BONUS: Add a custom 404 page.
+* BONUS: Add a custom 404 page (watch video for example).
 * Publish your site. You can use GitHub pages, Netlify or Vercel.
 * Commit and push to a new GitHub repo.
 * Make sure to provide a link to the repo and the site in the assignment hand-in

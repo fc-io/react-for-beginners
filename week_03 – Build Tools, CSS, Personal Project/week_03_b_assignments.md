@@ -1,12 +1,12 @@
 <!-- TODO/TBD -->
-# Week 3 – Build Tools + First React Project
+# Week 3 – Build Tools, CSS, Personal Project: Assignments
 
 ## Show
 
 * Vite (how to **build** using vite)
-* Implement a pixel perfect site.
 * tailwind.css
 * Include a custom font
+* Implement a pixel perfect site.
 * Publish using Netlify and/or Vercel. 
 
 ## Assignment: Build first personal project

@@ -1,5 +1,5 @@
 <!-- TODO/TBD -->
-# Week 3 – Build tools
+# Week 3 – Build Tools, CSS, Personal Project: Lecture
 
 ## Build tools
 

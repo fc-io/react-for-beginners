@@ -1,4 +1,4 @@
-# Week 2 – Node + NPM + Git + GitHub
+# Week 2 – Node, npm, Git, GitHub, DateTime + Git + GitHub
 
 [Lecture](week_02_a_lecture.md)
 
