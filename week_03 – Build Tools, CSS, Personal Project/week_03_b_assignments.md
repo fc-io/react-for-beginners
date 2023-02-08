@@ -4,17 +4,17 @@
 ## Show
 
 * Vite (how to **build** using vite)
-* Implenet a pixel perfect site.
+* Implement a pixel perfect site.
 * tailwind.css
 * Include a custom font
-* Publish using Netlify and Vercel. 
+* Publish using Netlify and/or Vercel. 
 
 ## Assignment: Build first personal project
 
 * Create new Github Repo
 * Build you idea and style from week 1 (or make a last minut change of style/idea. If you change
-  your idea make a note in your project's README.md about what your new idea is
-  about and why you felt your new idea was a better choice).
+  your idea make a note in your project's README.md about what your new idea is and why you felt 
+  your new idea was a better choice).
 * Make sure there is some kind of interactivity on your site. I.e something that
   would require JavaScript on a regular html, css, js-site.
 * Make sure your choice of design style is well reflected on your site.
