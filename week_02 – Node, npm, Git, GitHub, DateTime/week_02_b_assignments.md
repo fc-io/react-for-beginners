@@ -16,7 +16,7 @@
 * Local init
 * Greate remote GitHub repo
 * Commit, Log, Push
-* (add an ssh key)
+* Add an ssh key
 * Edit on Github.
 * Pull
 * Show rebase use-case
