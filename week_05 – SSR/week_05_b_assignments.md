@@ -1,8 +1,16 @@
-# Week 5 – SSR
-
-// To be done
+# Week 5 – SSR, Next, Porfolio
 
 ## Porfolio
+
+###
+### Watch
+
+**Next.js 13 - How to use App folder & Layouts**
+
+ https://www.youtube.com/watch?v=xXwxEudjiAY
+
+If you havent yet, watch this video. Tells you most of what you want to know to
+finish the assignment.
 
 ### Assignment – Portfolio (again, yey!)
 
@@ -22,6 +30,9 @@
     * Either a snippet or a scaled down image of a site.
     * For week 2, the image can be of how it looks in the terminal when you run
       your program or how the generated html page looks like.
+
+* BONUS: Add a moving loading indicator when server data is loading.
+* BONUS: Add a custom 404 page.
 * Commit and push to a new github repo.
 * Publish your site.
 * Make sure to provide a link to the repo and the site in the assignment hand-in
