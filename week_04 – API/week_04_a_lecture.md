@@ -2,7 +2,7 @@
 
 ## Data fetching
 
-### REST vs GraphlQL vs RPC
+### REST vs GraphQL vs RPC
 
 ### Testing slow connections
 
