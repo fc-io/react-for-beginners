@@ -28,9 +28,6 @@ making any difference.
 ### Routing
 
 * Learn React Router v6 In 45 Minutes https://www.youtube.com/watch?v=Ul3y1LXxzdU
-* Optional: RIP React Router? https://www.youtube.com/watch?v=LVzG3nncE4M
-* Optional: What Is TanStack Router And Why I Love It https://www.youtube.com/watch?v=OwoZtv6u9p4
-
 ## Assignment – recreate and improve
 
 * Recreate the code/steps of the presentation
@@ -46,3 +43,5 @@ making any difference.
   you see fit.
 * BONUS: On the about page provide a few examples of screen sizes you've tested
   on.
+* Publish your site. You can use github pages, Netlify or Vercel.
+* Make sure to commit and push latest to GitHub repo.
