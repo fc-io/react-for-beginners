@@ -2,6 +2,7 @@
 
 ## Show
 
+* Setup Next.js
 * Implement routes/layouts/pages
 
 ### Watch
