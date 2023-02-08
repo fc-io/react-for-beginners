@@ -44,12 +44,12 @@ https://www.youtube.com/watch?v=lVLz_ASqAio
   you see fit.
 * Give credit on your page towards the style you picked. Provide a link to
   where you found the style.
-* Publish your site. You can use github pages, Netlify or Vercel.
+* Publish your site. You can use GitHub pages, Netlify or Vercel.
 * Make sure to commit and push latest to GitHub repo.
 
 ## For next week
 
-Get a head start by watching the video below. Will help a lot.
+Get a head start by watching the video below. This time it will help a lot.
 
 Watch:
 * Next.js 13 - How to use App folder & Layouts https://www.youtube.com/watch?v=xXwxEudjiAY

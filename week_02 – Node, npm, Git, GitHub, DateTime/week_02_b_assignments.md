@@ -17,7 +17,7 @@
 * Greate remote GitHub repo
 * Commit, Log, Push
 * Add an ssh key!!!
-* Edit on Github.
+* Edit on GitHub.
 * Pull
 * Show rebase use-case
 * Show creating branches
@@ -30,14 +30,14 @@
 
 ### Watch:
 
-**Optional: Git It? How to use Git and Github**
+**Optional: Git It? How to use Git and GitHub**
 
 https://www.youtube.com/watch?v=HkdAHXoRtos
 
 Another good video. When you know the basics and want to know more about
 branches, pull requests, stashing
 
-**Optional: Git Tip: Commiting with Vim**
+**Optional: Git Tip: Committing with Vim**
 
 https://www.youtube.com/watch?v=ebZzVAZC7tc
 

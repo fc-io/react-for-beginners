@@ -38,7 +38,7 @@ Briefly (more when we do SSR)
 
 ## State Management
 
-Briefly
+Briefly (maybe more later)
 
 * ReactQuery (TanStack Query)
 * redux
