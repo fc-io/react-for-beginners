@@ -1,4 +1,4 @@
-# Week 5 – SSR, Next, Porfolio
+# Week 5 – SSR, Next, Portfolio
 
 ## Show
 
@@ -35,9 +35,8 @@ finish the assignment.
     * Either a snippet or a scaled down image of a site.
     * For week 2, the image can be of how it looks in the terminal when you run
       your program or how the generated HTML page looks like.
-* BONUS: Add a moving loading indicator when server data is loading.
 * BONUS: Add a custom 404 page.
-* Commit and push to a new github repo.
+* Commit and push to a new GitHub repo.
 * Publish your site.
 * Make sure to provide a link to the repo and the site in the assignment hand-in
   in teams.
