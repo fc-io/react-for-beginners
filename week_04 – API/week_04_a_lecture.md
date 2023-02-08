@@ -34,7 +34,7 @@ Briefly (more when we do SSR)
 
 * React router (Remix)
 * TanStack Router
-* (Next.js)
+* Next.js
 
 ## State Management
 

@@ -4,8 +4,6 @@
 
 * Fetch+useEffect from an open API.
 * Render with React in a decent way.
-* Add routing.
-* Add an about page.
 * If time, also implement using React Query.
 
 ## Watch
@@ -19,7 +17,7 @@ https://www.youtube.com/watch?v=QQYeipc_cik
 https://www.youtube.com/watch?v=lVLz_ASqAio
 
 * Notice that when he uses axios he could more or less have used fetch without
-making any difference.
+  making any difference.
 * Also notice, at the end, when he talks about mutation; that it's in general
   considered an anti-pattern to have stuff randomly jump in and change the
   layout. Its better to either:
@@ -27,21 +25,21 @@ making any difference.
       decide when to load new content.
     - Or to wait for the new data before loading the page in the first place.
 
-**Optional: Learn React Router v6 In 45 Minutes**
-
-https://www.youtube.com/watch?v=Ul3y1LXxzdU
-
-We will do routing with Next.js, next week. But can be nice to know a bit about
-another popular routing library.
-
 ## Assignment – recreate and improve
 
+* Create a new Git/GitHub repo.
 * Recreate the code/steps of the presentation
-* ...but use content, styling and shapes of your own choosing
-* Find a new style from https://dribbble.com/tags/free
-* ...and fetch data from the new page from another data source.
+* ...but fetch data from another data source (than mine).
   * Examples of APIs that don't require authentication:
-    https://github.com/cezary/simple-apis or find one of your own choosing
+    https://github.com/cezary/simple-apis or find one of your own choosing.
+  * API should provide data than can be used in a list or table (most likely
+    provided from an array).
+* Find a new style from https://dribbble.com/tags/free
+  * The design picked should have a list or table that you can copy for your
+    data.
+* Implement the design using your data.
+  - Should look like a list or table (but does not need to use <table> or
+    <ul>, <dl>, <ol>).
 * BONUS: Make the site mobile as well as desktop friendly. Adapt design style as
   you see fit.
 * Give credit on your page towards the style you picked. Provide a link to
@@ -51,8 +49,7 @@ another popular routing library.
 
 ## For next week
 
-Get a head start by watching the videos below. Or save them for next week, up to
-you.
+Get a head start by watching the video below. Will help a lot.
 
 Watch:
 * Next.js 13 - How to use App folder & Layouts https://www.youtube.com/watch?v=xXwxEudjiAY
