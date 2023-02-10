@@ -39,5 +39,5 @@ I had a hard time finding a nice video about pixel perfect design. But here are 
 Get a head start by watching the videos below. Or save them for next week, up to
 you.
 
-* Optional: Learn React Query In 50 Minutes https://www.youtube.com/watch?v=r8Dg0KVnfMA
 * Optional: Top 6 React Hook Mistakes Beginners Make (from 2:57, first example before 2:57 is not great) https://youtube.com/watch?v=GGo3MVBFr1A&t=177
+* Extra Optional: Learn React Query In 50 Minutes https://www.youtube.com/watch?v=r8Dg0KVnfMA
