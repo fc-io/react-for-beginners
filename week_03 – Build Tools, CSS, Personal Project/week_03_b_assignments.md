@@ -4,7 +4,7 @@
 ## Show
 
 * Vite (how to **build** using vite)
-* tailwind.css
+* (tailwind.css)
 * Include a custom font
 * Implement a pixel perfect site.
 * Publish using Netlify and/or Vercel. 
@@ -23,7 +23,7 @@ I had a hard time finding a nice video about pixel perfect design. But here are 
 * Build you idea and style from week 1 (or make a last minute change of
   style/idea. If you change your idea make a note in your project's README.md
   about what your new idea is and why you felt your new idea was a better
-  choice).
+  choice). What is a suitable idea? Check the week 1 assignments or ask if you feel unsure.
 * Make sure there is some kind of interactivity on your site. I.e something that
   would require JavaScript on a regular HTML, CSS, js-site.
 * Make sure your choice of design style is well reflected on your site. Preferably "pixel perfect".
