@@ -9,6 +9,14 @@
 * Implement a pixel perfect site.
 * Publish using Netlify and/or Vercel. 
 
+## Watch
+
+**Optional: Figma for Frontend developers [ in 5 minutes ]** 
+
+https://www.youtube.com/watch?v=hbN9RGcQFNU
+
+I had a hard time finding a nice video about pixel perfect design. But here are at least som tricks if you use figma.
+
 ## Assignment: Build first personal project
 
 * Create new GitHub Repo
@@ -18,7 +26,7 @@
   choice).
 * Make sure there is some kind of interactivity on your site. I.e something that
   would require JavaScript on a regular HTML, CSS, js-site.
-* Make sure your choice of design style is well reflected on your site.
+* Make sure your choice of design style is well reflected on your site. Preferably "pixel perfect".
 * Give credit towards the style you picked. Somewhere on your site provide a
   mention and a link to where you found the style.
 * Use the build function in vite to make your site ready for production.
