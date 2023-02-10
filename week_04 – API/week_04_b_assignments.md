@@ -39,8 +39,8 @@ https://www.youtube.com/watch?v=lVLz_ASqAio
   * The design picked should have a list or table that you can copy for your
     data.
 * Implement the design using your data.
-  - Should look like a list or table (but does not need to use <table> or
-    <ul>, <dl>, <ol>).
+  - Should look like a list or table (but does not need to use \<table\> or
+    \<ul\>, <\dl\>, <\ol\>).
 * BONUS: Make the site mobile as well as desktop friendly. Adapt design style as
   you see fit.
 * Give credit on your page towards the style you picked. Provide a link to

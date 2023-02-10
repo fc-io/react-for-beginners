@@ -11,7 +11,7 @@
 
  https://www.youtube.com/watch?v=xXwxEudjiAY
 
-If you haven't yet, watch this video. Tells you most of what you want to know to
+If you haven't yet; watch this video. Tells you most of what you want to know to
 finish the assignment.
 
 * Optional: Next.js 13 - The Basics https://www.youtube.com/watch?v=__mSgDEOyv8&list=WL&index=6
@@ -34,8 +34,8 @@ finish the assignment.
 * Make sure to provide some kind of image that reflect the work you've done each
   week.
     * Either a snippet or a scaled down image of a site.
-    * For week 2, the image can be of how it looks in the terminal when you run
-      your program or how the generated HTML page looks like.
+    * For week 1 and 2, the image can be of how it looks in the terminal when
+      you run your program or how the generated HTML page looks like.
 * BONUS: Add a custom 404 page (watch video for example).
 * Publish your site. You can use GitHub pages, Netlify or Vercel.
 * Commit and push to a new GitHub repo.
