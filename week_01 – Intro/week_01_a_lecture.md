@@ -212,3 +212,4 @@ developers use when coding.
 * or talk a bit less and introduce an assignment (a simplier verison of the
   first assignment without useState)
 * Make the assignments more clear. Confusing that idea and style assignments has elements also in the first assignment.
+* talk about how react (mostly) removes the need for manual DOM-manipulation
