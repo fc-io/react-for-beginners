@@ -1,10 +1,10 @@
 # Week 4 – API: Lecture
 
+## 2 kinds of programmers
+
 ## Data fetching
 
 ### REST vs GraphQL vs RPC
-
-### Testing slow connections
 
 ### Auth
 

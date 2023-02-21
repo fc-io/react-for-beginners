@@ -4,6 +4,8 @@
 
 * Fetch+useEffect from an open API.
 * Render with React in a decent way.
+* Testing how it works with a slow connection
+
 * If time, also implement using React Query.
 
 ## Watch
@@ -11,6 +13,10 @@
 **From week 1: How to use useState/useEffect**
 
 https://www.youtube.com/watch?v=QQYeipc_cik
+
+**Optional: GraphQL Explained in 100 Seconds**
+
+https://www.youtube.com/watch?v=eIQh02xuVw4
 
 **Optional: React Query Makes Writing React Code 200% Better**
 
@@ -31,16 +37,17 @@ https://www.youtube.com/watch?v=lVLz_ASqAio
 * Recreate the code/steps from the presentation
 * ...but fetch data from another data source (than mine).
   * Examples of APIs that don't require authentication:
-    https://github.com/cezary/simple-apis or find one of your own choosing.
+    https://github.com/public-apis/public-apis or find one of your own choosing.
   * API should provide data than can be used in a list or table (most likely
     provided from an array).
   * If needed, modify the provided data so that it will fit with your design.
-* Find a new style from https://dribbble.com/tags/free
+* Find a new style from https://dribbble.com/tags/free or
+  https://www.figma.com/community
   * The design picked should have a list or table that you can copy for your
     data.
 * Implement the design using your data.
   - Should look like a list or table (but does not need to use \<table\> or
-    \<ul\>, <\dl\>, <\ol\>).
+    \<ul\>, \<dl\>, \<ol\>).
 * BONUS: Make the site mobile as well as desktop friendly. Adapt design style as
   you see fit.
 * Give credit on your page towards the style you picked. Provide a link to
