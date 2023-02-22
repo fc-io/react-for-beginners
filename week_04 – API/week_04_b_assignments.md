@@ -50,8 +50,8 @@ https://www.youtube.com/watch?v=lVLz_ASqAio
 * Implement the design using your data.
   - Should look like a list or table (but does not need to use \<table\> or
     \<ul\>, \<dl\>, \<ol\>).
-* BONUS: Make the site mobile as well as desktop friendly. Adapt design style as
-  you see fit.
+* ~~BONUS: Make the site mobile as well as desktop friendly. Adapt design style as
+  you see fit.~~
 * Give credit on your page towards the style you picked. Provide a link to
   where you found the style.
 * Publish your site. You can use GitHub pages, Netlify or Vercel.
