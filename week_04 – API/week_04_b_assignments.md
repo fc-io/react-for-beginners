@@ -3,6 +3,8 @@
 ## Show
 
 * Fetch+useEffect from an open API.
+  - Rest
+  - GraphQL
 * Render with React in a decent way.
 * Testing how it works with a slow connection
 
