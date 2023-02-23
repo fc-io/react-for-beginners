@@ -35,6 +35,7 @@ Online participants; write in the chat.
   - [ ] forEach, Map, reduce?
   - [x] fetch?
   - [x] promises?
+- [ ] arrow functions
 - [ ] async/await?
 - [ ] import(s)
 - [ ] localstorage?
