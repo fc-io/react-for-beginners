@@ -213,3 +213,5 @@ developers use when coding.
   first assignment without useState)
 * Make the assignments more clear. Confusing that idea and style assignments has elements also in the first assignment.
 * talk about how react (mostly) removes the need for manual DOM-manipulation
+* introduce some easier exampels of working with destructuring, arrays, object, map, 
+
