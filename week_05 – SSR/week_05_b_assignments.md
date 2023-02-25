@@ -48,7 +48,7 @@ finish the assignment.
 customer, I'd like you to have another opportunity to work on something you
 yourself are passionate about building.)
 
-**You can only pick alternative 2,if you ask about your idé before Wednesday 11:59 during week 5.** Otherwise you have to do alternative 1.
+**You can only pick alternative 2 if you ask about your idé before Wednesday 11:59 during week 5.** Otherwise you have to do alternative 1.
 
 * Build a site using Next.
 * Your site need to use routes; there should be at least 3. 
