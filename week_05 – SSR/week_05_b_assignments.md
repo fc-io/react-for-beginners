@@ -57,6 +57,7 @@ yourself are passionate about building.)
      working to be later improved upon.
 * **You need to get your idea approved before you start. Send me a message and
     ask**
+    - **You can only pick alternative 2,if you ask about your idé before wednesday 11:59 during week 5.** Otherwise you have to do alternative 1.
 * BONUS: Add a custom 404 page (watch video for example).
 * Publish your site. You can use GitHub pages, Netlify or Vercel.
 * Commit and push to a new GitHub repo.
