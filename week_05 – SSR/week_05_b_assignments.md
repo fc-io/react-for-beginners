@@ -48,6 +48,8 @@ finish the assignment.
 customer, I'd like you to have another opportunity to work on something you
 yourself are passionate about building.)
 
+**You can only pick alternative 2,if you ask about your idé before Wednesday 11:59 during week 5.** Otherwise you have to do alternative 1.
+
 * Build a site using Next.
 * Your site need to use routes; there should be at least 3. 
 * Pick your own idea for the assignment, but don't go overboard. It's just one
@@ -56,8 +58,7 @@ yourself are passionate about building.)
      build should work on it's own. No broken links. No half-done features not
      working to be later improved upon.
 * **You need to get your idea approved before you start. Send me a message and
-    ask**
-    - **You can only pick alternative 2,if you ask about your idé before wednesday 11:59 during week 5.** Otherwise you have to do alternative 1.
+    ask.**
 * BONUS: Add a custom 404 page (watch video for example).
 * Publish your site. You can use GitHub pages, Netlify or Vercel.
 * Commit and push to a new GitHub repo.
