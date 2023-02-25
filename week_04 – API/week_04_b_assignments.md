@@ -65,3 +65,11 @@ Get a head start by watching the video below. This time it will help a lot.
 
 Watch:
 * Next.js 13 - How to use App folder & Layouts https://www.youtube.com/watch?v=xXwxEudjiAY
+
+
+## Friday
+
+– [ ] how make nice gradients
+– [ ] fetch again
+– [ ] react quewry again
+
