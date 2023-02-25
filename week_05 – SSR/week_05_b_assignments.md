@@ -56,7 +56,7 @@ yourself are passionate about building.)
     - Don't go overboard. It's just one week.
     - You can choose to work on a small part of larger project. But whatever you
       build should work on it's own. No broken links. No half-done features. No features 
-      not working to be later improved upon.
+      not working to be later improved upon. A few bugs are of course allowed, though.
     - **You need to get your idea approved before you start. Send me a message
         and ask.**
 * BONUS: Add a custom 404 page (watch video for example).
