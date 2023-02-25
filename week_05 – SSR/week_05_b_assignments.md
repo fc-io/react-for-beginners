@@ -18,7 +18,7 @@ finish the assignment.
 * Extra Optional: Remix JS Crash Course https://www.youtube.com/watch?v=3CAqFdVlbUA
 * Extra Optional: Astro just Launched....  https://www.youtube.com/watch?v=gxBkghlglTg
 
-## Assignment – Portfolio (again, yey!) (Alternative 1)
+## Assignment – Alternative 1: Portfolio (again, yey!)
 
 * Build a (new-isch) Portfolio site using Next. You can reuse a lot of code from
   the old one you made in the previous course as well as the design you used
@@ -42,7 +42,7 @@ finish the assignment.
 * In the assignment hand-in, make sure to provide a link to the repo, a
   screenshot of the site, and a link to the site.
 
-## Assignment – Alternative 2, pick you own thing.
+## Assignment – Alternative 2: Pick you own thing.
 
 (Since the last assignment of the course will be a group asssignment for a
 customer, I'd like you to have another opportunity to work on something you
