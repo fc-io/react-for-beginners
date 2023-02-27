@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=lVLz_ASqAio
 * Publish your site. You can use GitHub pages, Netlify or Vercel.
 * Make sure to commit and push latest to GitHub repo.
 * Make sure to provide a link to the repo and the site in the assignment hand-in
-  in teams. Also include a screenshot of the site.
+  in teams. Also include a screenshot of the site and the design you used for inspiration.
 
 ## For next week
 
