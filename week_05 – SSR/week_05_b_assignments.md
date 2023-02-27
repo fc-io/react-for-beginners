@@ -2,8 +2,13 @@
 
 ## Show
 
-* Setup Next.js
+* Setup Next.js – https://beta.nextjs.org/docs/installation
+* Show effect on slow connection
+* Explain css modules
+* Explain no index.html
 * Implement routes/layouts/pages
+* Implement server side fetching
+* Show title/metadata functions
 
 ## Watch
 

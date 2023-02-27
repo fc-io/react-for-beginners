@@ -7,3 +7,4 @@
 * Tinder-like swipe
 * Animations
 * Three.js
+* State management
