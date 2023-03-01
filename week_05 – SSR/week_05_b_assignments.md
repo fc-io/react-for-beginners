@@ -18,6 +18,7 @@
 * talk about Lazy Loading
 * talk about the Head component
 * vote on next week
+* state management with jotai
 
 ## Watch
 
