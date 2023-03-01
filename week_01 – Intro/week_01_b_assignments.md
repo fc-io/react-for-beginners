@@ -48,9 +48,9 @@ npm and vite right away.
   article has another styling than the other buttons when the active article is
   shown.)
 * BONUS: Add a button that shows all articles at the same time.
-* BONUS: update the title depending on what article is shown. You can watch the
+* ~~BONUS: update the webpage title in the tab-bar depending on what article is shown. You can watch the
   useState/useEffect video below for an example if we don't go through this
-  during class.
+  during class.~~
 * Make sure you commit and push your work to a public github repo (or a private
   repo but by also inviting me as a contributor).
 * When you are done with all the assignments, add a link to your GitHub repo in
