@@ -10,6 +10,15 @@
 * Implement server side fetching
 * Show title/metadata functions
 
+**Wednesday**
+
+* look at week 4 projects
+* show api
+* talk about 'use client'
+* talk about Lazy Loading
+* talk about the Head component
+* vote on next week
+
 ## Watch
 
 **Next.js 13 - How to use App folder & Layouts**
@@ -56,11 +65,11 @@ yourself are passionate about building.)
 **You can only pick alternative 2 if you ask about your idé before Wednesday 11:59 during week 5.** Otherwise you have to do alternative 1.
 
 * Build a site using Next.
-* Your site need to use routes; there should be at least 3. 
+* Your site need to use routes; there should be at least 3.
 * Pick your own idea for the assignment
     - Don't go overboard. It's just one week.
     - You can choose to work on a small part of larger project. But whatever you
-      build should work on it's own. No broken links. No half-done features. No features 
+      build should work on it's own. No broken links. No half-done features. No features
       not working to be later improved upon. A few bugs are of course allowed, though.
     - **You need to get your idea approved before you start. Send me a message
         and ask.**

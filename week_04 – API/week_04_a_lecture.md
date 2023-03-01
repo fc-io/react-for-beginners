@@ -18,7 +18,7 @@ authentication vs. authorization
 ### Fetching with extras
 
 * ReactQuery (TanStack Query)
-* SWR (Next.js)
+* SWR
 * Remix
 * Next.js
 * RTK-Query (Redux)
@@ -41,6 +41,8 @@ Briefly (more when we do SSR)
 Briefly (maybe more later)
 
 * ReactQuery (TanStack Query)
+* Jotai
+* Recoil
 * redux
 * zustand
 * Stately
