@@ -216,3 +216,4 @@ developers use when coding.
 * talk about how react (mostly) removes the need for manual DOM-manipulation, jquery !== react 
 * introduce some easier exampels of working with destructuring, arrays, object, map, 
 * add some more info about basic javascript needed to understand the course https://www.youtube.com/watch?v=m55PTVUrlnA
+* talk more about reusability of components and code (compared to regular html)
