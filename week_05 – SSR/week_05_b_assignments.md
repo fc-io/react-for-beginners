@@ -74,7 +74,7 @@ yourself are passionate about building.)
       not working to be later improved upon. A few bugs are of course allowed, though.
     - **You need to get your idea approved before you start. Send me a message
         and ask.**
-* BONUS: Add a custom 404 page (watch video for example).
+* BONUS: Add a custom 404 page (check https://stackoverflow.com/questions/75302340/not-found-page-does-not-work-in-next-js-13/75625136#75625136 for an example).
 * Publish your site. You can use GitHub pages, Netlify or Vercel.
 * Commit and push to a new GitHub repo.
 * In the assignment hand-in, make sure to provide a link to the repo, a
