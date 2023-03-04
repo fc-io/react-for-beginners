@@ -51,7 +51,7 @@ finish the assignment.
     * Either a snippet or a scaled down image of a site.
     * For week 1 and 2, the image can be of how it looks in the terminal when
       you run your program or how the generated HTML page looks like.
-* BONUS: Add a custom 404 page (watch video for example).
+* BONUS: Add a custom 404 page (check https://stackoverflow.com/questions/75302340/not-found-page-does-not-work-in-next-js-13/75625136#75625136 for an example).
 * Publish your site. You can use GitHub pages, Netlify or Vercel.
 * Commit and push to a new GitHub repo.
 * In the assignment hand-in, make sure to provide a link to the repo, a
