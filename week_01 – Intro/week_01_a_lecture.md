@@ -217,3 +217,4 @@ developers use when coding.
 * introduce some easier exampels of working with destructuring, arrays, object, map, 
 * add some more info about basic javascript needed to understand the course https://www.youtube.com/watch?v=m55PTVUrlnA
 * talk more about reusability of components and code (compared to regular html)
+* assignments for 1st week should introduce js concents that are heavily used in react. Object and array destructuring. Object manipulation. Arrow functions. Map. Also no vite first week. And not useState. If react only do imports, map, and multiple components on the same page.
