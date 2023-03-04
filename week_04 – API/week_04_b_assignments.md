@@ -69,7 +69,7 @@ Watch:
 
 ## Friday
 
-– [ ] how make nice gradients
-– [ ] fetch again
-– [ ] react quewry again
+- [ ] how make nice gradients
+- [ ] fetch again
+- [ ] react quewry again
 
