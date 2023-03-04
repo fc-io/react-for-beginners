@@ -71,5 +71,5 @@ Watch:
 
 - [ ] how make nice gradients
 - [ ] fetch again
-- [ ] react quewry again
+- [ ] react query again
 
