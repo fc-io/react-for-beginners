@@ -69,7 +69,9 @@ Watch:
 
 ## Friday
 
-- [ ] how make nice gradients
+Possible options for friday: 
+
+- [ ] how to make nice gradients
 - [ ] fetch again
 - [ ] react query again
 
