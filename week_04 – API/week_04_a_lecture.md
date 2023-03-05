@@ -40,7 +40,7 @@ Briefly (more when we do SSR)
 
 Briefly (maybe more later)
 
-* ReactQuery (TanStack Query)
+* (ReactQuery)
 * Jotai
 * Recoil
 * redux

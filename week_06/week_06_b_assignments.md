@@ -2,10 +2,16 @@
 
 **Possible things to show:**
 
-* React Native
+* React Native **Winner**
 * Drag and drop
-* Tinder-like swipe
+* Tinder-like swipe **Runner up**
 * Animations
 * Three.js
 * State management
 * Forms
+
+## React native
+
+**Optional: React Native Crash Course | Build a Complete App**
+
+https://www.youtube.com/watch?v=VozPNrt-LfE
