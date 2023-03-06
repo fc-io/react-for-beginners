@@ -15,3 +15,19 @@
 **Optional: React Native Crash Course | Build a Complete App**
 
 https://www.youtube.com/watch?v=VozPNrt-LfE
+
+## Assignment – Improve upon week 5
+
+* Don't use any dom manipulation abilities like document.querySelector.
+* Don't remove StrictMode
+* Use eslint, add a custom configuration/style-guide to extend, also
+  add at least one rule change
+* Run all files through prettier. Add a custom prettier config with at
+  least one setting changed.
+* BONUS: Create an easter egg
+  * Add a home-icon/text/button (if there isn't one already).
+  * Clicking the home button should take you back to the home page unless you
+    already are on the home page.
+  * When you press the home icon/text twice on the home page the home button
+    should wiggle and then fly away (in a speed you can see).
+  * The home button should now be gone on all pages until a refresh of the page.
