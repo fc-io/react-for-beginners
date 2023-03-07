@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=lVLz_ASqAio
 ## Assignment – recreate and improve
 
 * Create a new Git/GitHub repo.
-* Recreate the code/steps from the presentation
+* Recreate the code/steps from the presentation (as far it fits your work and your api).
 * ...but fetch data from another data source (than mine).
   * Examples of APIs that don't require authentication:
     https://github.com/public-apis/public-apis or find one of your own choosing.
