@@ -12,8 +12,13 @@
 
 **Wednesday**
 
+**Q**
+
 * Vilken uppgift har varit lättast hittills?
 * Vilken uppgift har varit svårast?
+
+
+**Lecture**
 
 * logic – assignment, loops, functions
 * arrow functions – different formulations
