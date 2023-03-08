@@ -10,6 +10,19 @@
 * State management
 * Forms
 
+**Wednesday**
+
+* Vilken uppgift har varit lättast hittills?
+* Vilken uppgift har varit svårast?
+
+* logic – assignment, loops, functions
+* arrow functions – different formulations
+* objects/arrays – objects and const
+* destructuring – different formulations
+* if else – different formulations, comparing
+* if else in react
+* react re-rendering
+
 ## React native
 
 **Optional: React Native Crash Course | Build a Complete App**
