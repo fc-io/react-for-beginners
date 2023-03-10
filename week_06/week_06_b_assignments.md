@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=VozPNrt-LfE
 * Use eslint, add a custom configuration/style-guide to extend, also
   add at least one rule change
 * Run all files in the app folder through prettier using npm. Add a custom prettier config with at
-  least one setting changed.
+  least one setting changed. You might need a .prettierignore do not run prettier in files other than your own.
 * BONUS: Create an easter egg
   * Add a home-icon/text/button (if there isn't one already).
   * Clicking the home button should take you back to the home page unless you
