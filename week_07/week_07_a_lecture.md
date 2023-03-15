@@ -2,10 +2,12 @@
 
 * Git/GitHub
   - Conflicts, pull/push
+  - git diff
   - Branches
   - Merge/Rebase
   - Review
   - Issues
+  - npm
 
 * Prettier and eslint in teams.
   - Use it.
