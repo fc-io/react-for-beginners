@@ -33,7 +33,7 @@ For when we have a lot of extra time.
 
 ## More about functional programming
 
-## Other languages that can be interesting to learn as a fron-end developer
+## Other languages that can be interesting to learn as a front-end developer
 
 Which ones? Would help you in general, or as a web programmer?
 

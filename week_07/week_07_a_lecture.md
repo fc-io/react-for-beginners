@@ -19,6 +19,7 @@
 
 * Working as a team
   - Agile
+  - People in a team?
   - Project managers
   - Jira etc...
   - Who does what?
