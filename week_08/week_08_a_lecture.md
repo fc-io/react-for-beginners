@@ -2,4 +2,7 @@
 
 * GitHub Copilot
 * Intro to TypeScript
+  - Hinting with available suggestions
+  - Generate new suggestions
+  - Problems
 
