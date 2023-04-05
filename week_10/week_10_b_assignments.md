@@ -29,5 +29,5 @@ Next, because we wanted to use routes. React-swipe-card, the best swipe library 
 
 * What was hardest part(s) of this project?
 * What were some things you learned about react and javascript that you did not know before the project?
-
+* Any last minute changes since previous week?
 
