@@ -77,7 +77,7 @@ only needed if you want to get really good about using vi/vim.)
 * Make sure all the dates and times has a nice formatting that "everyone" can
   understand.
 * Add a function that also creates a plain, runnable html-file (index.html) in
-  addition to the index.md file. Include relevant markup and styling and the dates and info as instructed above.
+  addition to the index.md file. Include relevant markup, styling and the dates/info as required above.
 * Create a public GitHub repo (if you haven't already, or a private repo but by
   also inviting me as a contributor) and "upload" your code. For your own
   convenience, make sure to setup you GitHub account with an ssh-key if you
