@@ -65,7 +65,7 @@ yourself are passionate about building.)
 
 **You can only pick alternative 2 if you ask about your idé before Wednesday 11:59 during week 5.** Otherwise you have to do alternative 1.
 
-* Build a site using Next.
+* Build a site using Next (>v13.1).
 * Your site need to use routes; there should be at least 3.
 * Pick your own idea for the assignment
     - Don't go overboard. It's just one week.
