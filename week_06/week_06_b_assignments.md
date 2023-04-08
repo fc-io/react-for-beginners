@@ -48,3 +48,4 @@ https://www.youtube.com/watch?v=VozPNrt-LfE
   * When you press the home icon/text twice on the home page the home button
     should wiggle and then fly away (in a speed you can see). Make sure it's two clicks/presses in a row. Not one click then going to another page and coming back and then another click. If you click somewhere else on the home page then it's fine if the next click will trigger the wiggle and disappear.
   * The home button should now be gone on all pages until a refresh of the page.
+  * Make sure your published site as all the latest changes.
