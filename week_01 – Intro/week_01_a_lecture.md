@@ -218,3 +218,5 @@ developers use when coding.
 * add some more info about basic javascript needed to understand the course https://www.youtube.com/watch?v=m55PTVUrlnA
 * talk more about reusability of components and code (compared to regular html)
 * assignments for 1st week should introduce js concents that are heavily used in react. Object and array destructuring. Object manipulation. Arrow functions. Map. Also no vite first week. And not useState. If react only do imports, map, and multiple components on the same page.
+* having a line limit for some tasks would be good to help the students focus on quality, and not have to rea through so much when grading
+* Even though the outline here is aiming for 3 days of lectures per week, with one of theme being for repetition, it's pretty much a full time job preparing and grading. 
