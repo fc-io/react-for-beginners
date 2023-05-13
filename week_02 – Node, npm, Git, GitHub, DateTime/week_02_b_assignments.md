@@ -1,5 +1,7 @@
 # Week 2 – Node, npm, Git, GitHub, DateTime: Assignments
 
+Many tought this assignment was one of the hardest. It was supposed to be one of the easier ones. Bu I can understand now that it's too much javascript. I would pretty much remove everything in this assignment and just make something easier.
+
 ## Show – Node and npm basics
 
 * Show "Repl"-mode.
