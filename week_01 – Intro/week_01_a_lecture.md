@@ -222,3 +222,5 @@ developers use when coding.
 * Even though the outline here is aiming for 3 days of lectures per week, with one of theme being for repetition, it's pretty much a full time job preparing and grading. 
 * Most of em understand that it's important that they put togheter their own code, but for some, clearer instructions are needed about what one is not allowed to do. Apparently, it needs to be made clearer that copying 100 lines of code from the internet, where only 5 lines do what is included in the task, is not okay. With that said I do think it's totally fine to copy code form ai-bots or forums, but you have to show that you understand what the code does.
 * assignment 2 was too complicated, with to many new things, should be rewritten to be easier, thought would also be to make first assignment easier, and then do more react in 2nd week, mabe introduce data handling in week 3 but make it simplier
+* late handins should probably get an extra assignment to compensate for them getting inspired by code from their classmates
+* all assignments needs to be at least slighlty updated every year to help student not copy from earlier semesters
